@@ -49,10 +49,10 @@ public class ListMergeSort {
                 right = right.next;
             }
         }
-        while (left != null) {
+        if (left != null) {
             cur.next = left;
         }
-        while (right != null) {
+        if (right != null) {
             cur.next = right;
         }
         return head.next;

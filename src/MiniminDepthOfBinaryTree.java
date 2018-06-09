@@ -1,6 +1,5 @@
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.Queue;
 
 /**
  * @author LBW
@@ -29,7 +28,6 @@ public class MiniminDepthOfBinaryTree {
             return 0;
         ArrayList<TreeNode> arrayList = new ArrayList<>();
         arrayList.add(root);
-        LinkedList<TreeNode> linkedList = new LinkedList<>();
         int depth = 0;
         //层序遍历
         while (!arrayList.isEmpty()) {
