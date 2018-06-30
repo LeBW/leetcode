@@ -1,7 +1,7 @@
 /**
  * Use Elementary Math to solve the problem. attention:
  *
- * <p>1. Use dummy head when using LiknNode. It's convenience because you don't need to judge whether it's head.
+ * <p>1. Use dummy head when using LinkNode. It's convenience because you don't need to judge whether it's head.
  * <p>2. Simplify your code.
  * <p>3. judge whether carry is 1 when it ends.
  *

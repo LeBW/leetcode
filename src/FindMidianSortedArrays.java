@@ -53,7 +53,7 @@ public class FindMidianSortedArrays {
 
     public static void main(String[] args) {
         FindMidianSortedArrays findMidianSortedArrays = new FindMidianSortedArrays();
-        double reuslt = findMidianSortedArrays.findMedianSortedArrays(new int[]{1, 3}, new int[]{2});
-        System.out.println(reuslt);
+        double result = findMidianSortedArrays.findMedianSortedArrays(new int[]{1, 3}, new int[]{2});
+        System.out.println(result);
     }
 }
