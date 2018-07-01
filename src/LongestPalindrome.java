@@ -3,6 +3,9 @@
  * @author LBW
  */
 public class LongestPalindrome {
+    /**
+     * Find the longest palindrome of s.
+     */
     public String longestPalindrome(String s) {
         int len = s.length();
         int max = 0;
@@ -21,6 +24,9 @@ public class LongestPalindrome {
         return s.substring(left, right+1);
     }
 
+    /**
+     * find the longest palindrome of s from center: (left + right) / 2.
+     */
     private int palindromeFrom(String s, int len, int left, int right) {
         if (left == right) {
             int result = 1;
