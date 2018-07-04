@@ -1,4 +1,5 @@
 /**
+ * Implement atoi which converts a string to an integer.
  * @author LBW
  */
 public class MyAtoi {
