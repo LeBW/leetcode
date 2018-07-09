@@ -1,8 +1,9 @@
 import java.util.Stack;
 
 /**
- * @author LBW
  * evaluate reverse polish notation
+ *
+ * @author LBW
  */
 public class EvalRPN {
     public static int evalRPN(String[] tokens) {

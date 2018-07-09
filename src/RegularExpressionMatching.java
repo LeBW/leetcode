@@ -3,6 +3,7 @@
  * '.' matches any single character.
  * '*' matches zero or more of the preceding element.
  * The matching should cover the entire input string (not partial).
+ *
  * @author LBW
  */
 public class RegularExpressionMatching {
