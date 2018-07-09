@@ -1,5 +1,6 @@
 /**
  * Given a string <tt>s</tt>, find the longest palindrome substring in <tt>s</tt>, you may assume that the maximum length of s is 1000.
+ *
  * @author LBW
  */
 public class LongestPalindrome {
