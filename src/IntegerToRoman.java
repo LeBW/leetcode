@@ -21,13 +21,13 @@ public class IntegerToRoman {
         map.put(900, "CM");
         map.put(1000, "M");
 
-        String result = "";
+        StringBuilder result = new StringBuilder();
         while (num > 0) {
             int cur = maxPosition(num);
-            result += map.get(cur);
+            result.append(map.get(cur));
             num -= cur;
         }
-        return result;
+        return result.toString();
     }
 
     private int maxPosition(int num) {
