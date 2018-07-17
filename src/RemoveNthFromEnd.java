@@ -1,4 +1,9 @@
 /**
+ * <a href=https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/description/>
+ * Click here to see online description.
+ * </a>
+ *<br>
+ * Traverse the List in one pass.
  * @author LBW
  */
 public class RemoveNthFromEnd {
