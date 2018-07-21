@@ -13,21 +13,21 @@ public class SwapNodesInPairs {
 
         ListNode result = head.next;
         ListNode first = head, second = head.next;
+        ListNode third = second.next;
 
-        while (true) {
-            ListNode third = second.next;
+        second.next = first;
+
+        while (third != null && third.next != null) {
+            first.next = third.next;
+            first = third;
+            second = third.next;
+            third = second.next;
 
             second.next = first;
-            if (third != null && third.next != null) {
-                first.next = third.next;
-                first = third;
-                second = third.next;
-            }
-            else {
-                first.next = third;
-                break;
-            }
+
         }
+        first.next = third;
+
         return result;
     }
 }
