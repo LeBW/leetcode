@@ -2,6 +2,7 @@
  * <a href=https://leetcode-cn.com/problems/divide-two-integers/description/>
  * Click to see online description
  * </a>
+ * Attention: 1. +,-(用sign解决）  2. 边界(用long解决). 3. 用位实现除法（循环）
  * <br>
  * @author LBW
  */
