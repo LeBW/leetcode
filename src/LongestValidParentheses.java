@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 /**
  * @author LBW
  */
@@ -29,5 +31,31 @@ public class LongestValidParentheses {
                 max = dp[i];
         }
         return max;
+    }
+    private int stackSolution(String s) {
+        int len = s.length();
+        if (len == 0)
+            return 0;
+
+        //Use stack to solve the problem. (Difficult to think...)
+        Stack<Integer> stack = new Stack<>();
+        stack.push(-1);
+        int result = 0;
+
+        for (int i = 0; i < len; i++) {
+            if (s.charAt(i) == '(') {
+                stack.push(i);
+            }
+            else {
+                stack.pop();
+                if (stack.isEmpty()) {
+                    stack.push(i);
+                }
+                else {
+                    result = Math.max(result, i - stack.peek());
+                }
+            }
+        }
+        return result;
     }
 }
