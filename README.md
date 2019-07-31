@@ -4,7 +4,7 @@
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum) | [JAVA](./src/TwoSum.java) |       | Easy       |              |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) | [JAVA](./src/AddTwoNumbers.java) | | Median | &hearts; |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [JAVA](./src/LongestSubstring.java) | | Median | |
+| 3 | [Longest Substring Without Repeating Character](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [JAVA](./src/LongestSubstring.java) | | Median | |
 | 4 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [JAVA](./src/FindMedianSortedArrays.java) | | Hard | |
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) | [JAVA](./src/LongestPalindrome.java) | | Median | |
 | 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion) | [JAVA](./src/Zconvert.java) | | Median | |
@@ -35,7 +35,7 @@
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation) | [JAVA](./src/NextPermutation.java) | | Median | |
 | 32 | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses) | [JAVA](./src/LongestValidParentheses.java) | | Hard | |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [JAVA](./src/SearchInRotatedSortedArray.java) | | Median | |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | | Median | |
+| 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | | Median | |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position) | [JAVA](./src/SearchInsertPosition.java) | | Easy | |
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku) | [JAVA](./src/ValidSudoku.java) | | Median | |
 | 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudoKuSolver.java) | | Hard | |
