@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -8,11 +7,11 @@ class Cell {
     char value = '.';
     ArrayList<Character> remains = new ArrayList<>(Arrays.asList('1', '2', '3', '4', '5', '6', '7', '8', '9'));
     int i, j;
-    public Cell(int i, int j) {
+    Cell(int i, int j) {
         this.i = i;
         this.j = j;
     }
-    public Cell copy() {
+    Cell copy() {
         Cell cell = new Cell(i, j);
         cell.value = value;
         cell.remains = new ArrayList<>();
@@ -37,7 +36,7 @@ class SudoKuSolver {
         }
         //in most case, the algorithm ends here.
         //Or we can only use backtrack（回溯）now.
-        ArrayList<Cell> remains = new ArrayList<Cell>();
+        ArrayList<Cell> remains = new ArrayList<>();
         for (int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
                 if (cells[i][j].value == '.')
@@ -149,6 +148,6 @@ class SudoKuSolver {
         SudoKuSolver sudoKuSolver = new SudoKuSolver();
         char[][] board = {{'.','.','.','2','.','.','.','6','3'},{'3','.','.','.','.','5','4','.','1'},{'.','.','1','.','.','3','9','8','.'},{'.','.','.','.','.','.','.','9','.'},{'.','.','.','5','3','8','.','.','.'},{'.','3','.','.','.','.','.','.','.'},{'.','2','6','3','.','.','5','.','.'},{'5','.','3','7','.','.','.','.','8'},{'4','7','.','.','.','1','.','.','.'}};
         sudoKuSolver.solveSudoku(board);
-        System.out.println(board);
+        System.out.println(Arrays.deepToString(board));
     }
 }
