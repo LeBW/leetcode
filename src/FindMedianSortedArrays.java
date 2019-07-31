@@ -3,7 +3,7 @@
  * Find the median of the two sorted arrays. The overall run time complexity should be <tt>O(log(m+n))</tt>
  * @author LBW
  */
-public class FindMidianSortedArrays {
+public class FindMedianSortedArrays {
     /**
      *
      * @return the median number
@@ -52,7 +52,7 @@ public class FindMidianSortedArrays {
     }
 
     public static void main(String[] args) {
-        FindMidianSortedArrays findMidianSortedArrays = new FindMidianSortedArrays();
+        FindMedianSortedArrays findMidianSortedArrays = new FindMedianSortedArrays();
         double result = findMidianSortedArrays.findMedianSortedArrays(new int[]{1, 3}, new int[]{2});
         System.out.println(result);
     }
