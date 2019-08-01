@@ -5,39 +5,28 @@ import java.util.HashSet;
  * Longest substring without repeating characters.
  * <p>Given <tt>"abcabcbb"</tt>, the answer is  <tt>"abc"</tt>, which the length is 3.</p>
  * <p>Given <tt>"bbbbb"</tt>, the answer is "b", with the length of 1.</p>
- * 滑动窗口解决。
- * 1. HashMap. 2. HashSet.
+ * 滑动窗口法。
+ * 1. HashMap. 用map记录每个字符最后出现的index。j作为遍历变量，i随着j的变化而变化。当s[j]存在于map时，将i增加到最后遇到j的下一位，并且清空中间的map item。
+ * 2. HashSet.
  * @author LBW
  */
 public class LongestSubstring {
     public int lengthOfLongestSubString(String s) {
-        if (s == null || s.length() == 0)
-            return 0;
-
-        int length = s.length();
-        // sliding window: [i, j)
-        int i = 0, j = 1, max = 1;
-        // record char:index in sliding window.
+        int ans = 0;
         HashMap<Character, Integer> map = new HashMap<>();
-        map.put(s.charAt(0), 0);
-        while (j < length) {
-            char c = s.charAt(j);
-            //if c repeats, update max and map.
-            if (map.containsKey(c)) {
-                //update max
-                max = Math.max(max, j - i);
-                //remove from i to index. update i;
-                int index = map.get(c);
-                for (; i <= index; i++) {
+        int i = 0;
+        for (int j = 0; j < s.length(); j++) {
+            //如果s[j]已经被遇到过的话，将i增加到s[j]上次被遇到时的下一位，并清空中间的map item
+            if (map.containsKey(s.charAt(j))) {
+                int i1 = map.get(s.charAt(j)) + 1;
+                for (; i < i1; i++)
                     map.remove(s.charAt(i));
-                }
             }
-            map.put(c, j);
-            j++;
+            //s[j]没有遇到过时，直接将其加入map，并更新ans
+            map.put(s.charAt(j), j);
+            ans = Math.max(ans, j-i+1);
         }
-        //update the last time
-        max = Math.max(max, j-i);
-        return max;
+        return ans;
     }
     public int lengthOfLongestSubStringTwo(String s) {
         if (s == null || s.length() == 0)
