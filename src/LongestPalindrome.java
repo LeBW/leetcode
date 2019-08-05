@@ -4,8 +4,39 @@
  * @author LBW
  */
 public class LongestPalindrome {
+
     /**
-     * Find the longest palindrome of s.
+     * Method 1: Dynamic Programming
+     */
+    public String longestPalindromeDP(String s) {
+        if (s == null || s.length() == 0)
+            return "";
+        int len = s.length();
+        boolean[][] dp = new boolean[len][len];  //default to false.
+        int max = 1;
+        int start = 0;
+        for (int i = 0; i < len-1; i++) {
+            dp[i][i] = true;
+            dp[i+1][i] = true;
+        }
+        dp[len-1][len-1] = true;
+
+        for (int k = 1; k <= len; k++) {
+            for (int i = 0; i + k < len; i++) {
+                if (s.charAt(i) == s.charAt(i+k) && dp[i+1][i+k-1]) {
+                    dp[i][i+k] = true;
+                    if (k+1 > max) {
+                        max = k+1;
+                        start = i;
+                    }
+                }
+            }
+        }
+        return s.substring(start, start+max);
+    }
+
+    /**
+     * Method 2: 中心扩展
      */
     public String longestPalindrome(String s) {
         int len = s.length();
@@ -52,5 +83,6 @@ public class LongestPalindrome {
     public static void main(String[] args) {
         LongestPalindrome longestPalindrome = new LongestPalindrome();
         System.out.println(longestPalindrome.longestPalindrome("babad"));
+        System.out.println(longestPalindrome.longestPalindromeDP("asdfdsa"));
     }
 }

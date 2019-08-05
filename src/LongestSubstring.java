@@ -11,6 +11,7 @@ import java.util.HashSet;
  * @author LBW
  */
 public class LongestSubstring {
+
     public int lengthOfLongestSubString(String s) {
         int ans = 0;
         HashMap<Character, Integer> map = new HashMap<>();
