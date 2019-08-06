@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author LBW
  */
-class HeapSort
+public class HeapSort
 {
     public void sort(int arr[]) {
         int len = arr.length;
