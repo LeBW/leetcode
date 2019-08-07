@@ -38,9 +38,9 @@
 | 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | | Median | |
 | 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position) | [JAVA](./src/SearchInsertPosition.java) | | Easy | |
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku) | [JAVA](./src/ValidSudoku.java) | | Median | |
-| 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudoKuSolver.java) | | Hard | |
+| 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudokuSolver.java) | | Hard | |
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts;
-| 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList) | 快慢指针<br>链表反转 | Easy | &hearts; |
+| 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
