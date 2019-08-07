@@ -4,7 +4,7 @@
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum) | [JAVA](./src/TwoSum.java) |       | Easy       |              |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) | [JAVA](./src/AddTwoNumbers.java) | 链表 | Median | &hearts; |
-| 3 | [Longest Substring Without Repeating Character](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [JAVA](./src/LongestSubstring.java) | 滑动窗口 | Median | &hearts;&hearts;|
+| 3 | [Longest Substring Without Repeating Character](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [JAVA](./src/LongestSubstring.java) | 滑动窗口 | Median | &hearts;&hearts;&hearts;|
 | 4 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [JAVA](./src/FindMedianSortedArrays.java) | | Hard | |
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring) | [JAVA](./src/LongestPalindrome.java) | 中心扩展<br>动态规划 | Median | &hearts;&hearts; |
 | 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion) | [JAVA](./src/Zconvert.java) | | Median | |
@@ -41,5 +41,6 @@
 | 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudoKuSolver.java) | | Hard | |
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
+| 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts;
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList) | 快慢指针<br>链表反转 | Easy | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
