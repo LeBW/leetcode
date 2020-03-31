@@ -9,7 +9,7 @@ import java.util.Arrays;
  */
 public class QuickSort {
 
-    public void sort(int[] arr) {
+    public static void sort(int[] arr) {
         quickSort(arr, 0, arr.length-1);
     }
 
@@ -23,13 +23,10 @@ public class QuickSort {
         int i = start, j = end;
         while (i < j) {
             for (; i < j && arr[j] >= pivot; j--);
-            if (arr[j] < pivot) {
-                arr[i] = arr[j];
-            }
+            arr[i] = arr[j];
+
             for (; i < j && arr[i] <= pivot; i++);
-            if (arr[i] > pivot) {
-                arr[j] = arr[i];
-            }
+            arr[j] = arr[i];
         }
         arr[i] = pivot;
         return i;
