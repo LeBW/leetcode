@@ -41,7 +41,8 @@
 | 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudokuSolver.java) | | Hard | |
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
-| 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts;
+| 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts; |
+| 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
-| 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Medium | &hearts; |
+| 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Mediam | &hearts; |

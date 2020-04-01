@@ -18,7 +18,7 @@ public class QuickSort {
      * 两个指示变量分别在首部和尾部，往中间遍历，不停交换位置错误的元素。
      * 最后放置pivot。
      */
-    int partition(int[] arr, int start, int end) {
+    private static int partition(int[] arr, int start, int end) {
         int pivot = arr[start];
         int i = start, j = end;
         while (i < j) {
@@ -38,7 +38,7 @@ public class QuickSort {
      * 最后将pivot放置在arr[i]处（即将arr[i]与arr[end]进行交换）.
      * 注意：这种方法i和j一定要往同一方向遍历！！！否则会造成不必要的麻烦。
      */
-    int partitionTwo(int[] arr, int start, int end) {
+    private static int partitionTwo(int[] arr, int start, int end) {
         int pivot = arr[end];
         int i = start, j = start;
         for (; j < end; j++) {
@@ -57,7 +57,7 @@ public class QuickSort {
         return i;
     }
 
-    void quickSort(int[] arr, int start, int end) {
+    private static void quickSort(int[] arr, int start, int end) {
         if (start >= end)
             return;
         int p = partitionTwo(arr, start, end);
@@ -66,9 +66,8 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        QuickSort sort = new QuickSort();
         int[] arr = new int[]{4, 1, 3, 9, 7};
-        sort.quickSort(arr, 0, arr.length-1);
+        QuickSort.sort(arr);
         System.out.println(Arrays.toString(arr));
     }
 }
