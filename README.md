@@ -29,7 +29,7 @@
 | 25 | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | [JAVA](./src/ReverseKGroup.java) | | Hard | |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [JAVA](./src/RemoveDuplicates.java) | | Easy | |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element) | [JAVA](./src/RemoveElement.java) | | Easy | |
-| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JAVA](./src/StrStr.java) | | Easy | |
+| 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JAVA](./src/StrStr.java) | KMP算法 | Easy | &hearts; |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers) | [JAVA](./src/DivideTwoIntegers.java) | | Median | |
 | 30 | [Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | [JAVA](./src/SubstringWithConcatenation.java) | | Hard | |
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation) | [JAVA](./src/NextPermutation.java) | | Median | |
