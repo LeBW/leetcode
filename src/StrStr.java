@@ -10,48 +10,57 @@ public class StrStr {
     public int strStr(String haystack, String needle) {
         if (needle.equals(""))
             return 0;
-
-        int[] next = findNext(needle);
-
-        //start to traverse the string.
-        int posH = 0, posN = 0;
-        while (posH < haystack.length() && posN < needle.length()) {
-            if (haystack.charAt(posH) == needle.charAt(posN)) {
-                posH += 1;
-                posN += 1;
+        // get the array {next}.
+        int[] next = getNext(needle);
+        // start to traverse the string by i. (j is used to indicate index of needle)
+        int i = 0, j = 0;
+        while (i < haystack.length()) {
+            if (haystack.charAt(i) == needle.charAt(j)) {
+                i++;
+                j++;
             }
-            else if (posN > 0) {
-                posN = next[posN-1];
+            else if (j > 0) {
+                j = next[j-1];
             }
-            else {
-                posH += 1;
+            else {  // j = 0
+                i++;
+            }
+            if (j == needle.length()) {
+                return i - needle.length();
             }
         }
-        if (posN == needle.length())
-            return posH - needle.length();
-        else
-            return -1;
-
+        return -1;
     }
 
-    private int[] findNext(String needle) {
-        int[] next = new int[needle.length()];
+    /**
+     * Get next array.
+     * @param needle
+     * @return next
+     */
+    private int[] getNext(String needle) {
+        int len = needle.length();
+        int[] next = new int[len];
         next[0] = 0;
-        int i = 1, len = 0;
-        while (i < needle.length()) {
-            if (needle.charAt(i) == needle.charAt(len)) {
-                next[i] = len + 1;
+        int i = 1, j = 0;
+        while (i < len) {
+            if (needle.charAt(i) == needle.charAt(j)) {
+                next[i] = j + 1;
                 i++;
-                len++;
+                j++;
             }
-            else if (len > 0) {
-                len = next[len-1];
-            }
-            else {
+            else if (j == 0) {
                 next[i] = 0;
                 i++;
             }
+            else {  // j > 0
+                 j = next[j-1];  // This step is really important! j indicates candidates of next.
+            }
         }
         return next;
+    }
+
+    public static void main(String[] args) {
+        StrStr strStr = new StrStr();
+        strStr.strStr("hello", "ll");
     }
 }
