@@ -1,6 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 /**
  * 145. Binary Tree Postorder Traversal
@@ -27,7 +25,7 @@ public class BinaryTreePostorderTraversal {
     }
 
     /**
-     * Method 3: Iteration. 用一个prev来指示前一个访问的节点，从而判断是从左节点回还是从右节点回
+     * Method 2: Iteration. 用一个prev来指示前一个访问的节点，从而判断是从左节点回还是从右节点回. （妈的，不能用这个方法，判断条件的地方，会死人的，下一个比较好）
      * @param root
      * @return
      */
@@ -44,7 +42,7 @@ public class BinaryTreePostorderTraversal {
             }
             else {
                 cur = stack.peek();
-                if (cur.right == null || cur.right == prev) {  //从右子树回来，则可以输出根了
+                if (cur.right == null || cur.right == prev) {  //从右子树回来，则可以输出根了 (这一行尤其重要）
                     cur = stack.pop();
                     result.add(cur.val);
                     prev = cur;
@@ -59,10 +57,45 @@ public class BinaryTreePostorderTraversal {
         return result;
     }
 
+    /**
+     * Method 3: Iteration。  利用Set来存放已经访问过的节点，比Method 2 更容易理解。
+     * @param root
+     * @return
+     */
+    public List<Integer> postorderTraversalThree(TreeNode root) {
+        ArrayList<Integer> result = new ArrayList<>();
+        Stack<TreeNode> stack = new Stack<>();
+        Set<TreeNode> visited = new HashSet<>();
+
+        TreeNode cur = root;
+        while (cur != null || !stack.isEmpty()) {
+            //System.out.print("Iteration: ");
+            if (cur != null) {
+                //System.out.println("push cur: " + cur.val);
+                stack.push(cur);
+                cur = cur.left;
+            }
+            else {
+                TreeNode tmp = stack.peek();
+                if (visited.contains(tmp)) {  //从右子树回来的，添加根节点，然后置cur为空，方便下次循环继续peek栈。
+                    result.add(tmp.val);
+                    stack.pop();  //将tmp弹出栈
+                    //System.out.println("Second time visit, Add val: " + tmp.val);
+                }
+                else {  //从左子树回来的，要标记访问，然后接着访问右子树
+                    //System.out.println("First time visit val: " + tmp.val);
+                    visited.add(tmp);
+                    cur = tmp.right;
+                }
+            }
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         BinaryTreePostorderTraversal binaryTreePostorderTraversal = new BinaryTreePostorderTraversal();
         TreeNode root = getTreeA();
-        System.out.println(binaryTreePostorderTraversal.postorderTraversalTwo(root));
+        System.out.println(binaryTreePostorderTraversal.postorderTraversalThree(root));
     }
 
     static TreeNode getTreeA() {
