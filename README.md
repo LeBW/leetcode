@@ -42,11 +42,13 @@
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts; |
+| 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JAVA](./src/MaximumSubarray.java) | 动态规划<br>线段树 | Easy | &hearts; | 
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JAVA](./src/BinaryTreeLevelOrderTraversal.java) | 二叉树<br>层序遍历 | Medium | &hearts; |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./src/MaximumDepthOfBinaryTree.java) | 二叉树<br>最大深度 | Easy | |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./src/MinimumDepthOfBinaryTree.java) | 二叉树<br>最小深度 | Easy | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |

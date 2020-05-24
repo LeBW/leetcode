@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 /**
+ * 111. Minimum Depth of Binary Tree
  * @author LBW
- * minimin-depth-of-binary-tree
  */
 class TreeNode {
     int val;
@@ -13,8 +13,30 @@ class TreeNode {
         val = x;
     }
 }
-public class MiniminDepthOfBinaryTree {
-    public int run(TreeNode root) {
+public class MinimumDepthOfBinaryTree {
+    //递归DFS解法
+    private int result = Integer.MAX_VALUE;
+    public int minDepth(TreeNode root) {
+        if (root == null)
+            return 0;
+        result = Integer.MAX_VALUE;
+        dfs(root, 1);
+        return result;
+    }
+
+    private void dfs(TreeNode root, int depth) {
+        if (root.left == null && root.right == null) {
+            result = Math.min(result, depth);
+        }
+        if (root.left != null)
+            dfs(root.left, depth+1);
+        if (root.right != null)
+            dfs(root.right, depth+1);
+    }
+
+
+    //层序遍历解法
+    public int minDepthTwo(TreeNode root) {
         //recursion version
 //        if (root == null)
 //            return 0;
