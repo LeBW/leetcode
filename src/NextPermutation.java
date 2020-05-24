@@ -1,6 +1,8 @@
 import java.util.Arrays;
 
 /**
+ * 31. Next Permutation
+ * 数学分析很重要，不看答案不会做系列.
  * @author LBW
  */
 class NextPermutation {

@@ -46,12 +46,18 @@
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JAVA](./src/BinaryTreeLevelOrderTraversal.java) | 二叉树<br>层序遍历 | Medium | &hearts; |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./src/MaximumDepthOfBinaryTree.java) | 二叉树<br>最大深度 | Easy | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
+| 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
-| 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Mediam | &hearts; |
+| 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
+| 5416 | [Check Word Prefix](https://leetcode-cn.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [JAVA](./src/CheckWordPrefix.java) | | Easy | |
+| 5417 | [Maximum Number of Vowels](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [JAVA](./src/MaximumNumberOfVowels.java) | 滑动窗口 | Median | &hearts; |
+| 5418 | [Pseudo-Palindromic Paths Binary Tree](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [JAVA](./src/PseudoPalindromicPath.java) | 回文序列<br>二叉树 | Median | &hearts; |
+| 5419 | [Max Dot Product of Two Subsequences](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/) | [JAVA](./src/MaxDotProductOfTwoSubsequences.java) | 动态规划 | Hard | &hearts; |
