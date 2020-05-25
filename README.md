@@ -52,6 +52,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
+| 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
