@@ -46,6 +46,7 @@
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
+| 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [JAVA](./src/SymmetricTree.java) | 二叉树<br>对称 | Easy | &hearts; |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [JAVA](./src/BinaryTreeLevelOrderTraversal.java) | 二叉树<br>层序遍历 | Medium | &hearts; |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [JAVA](./src/MaximumDepthOfBinaryTree.java) | 二叉树<br>最大深度 | Easy | |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./src/MinimumDepthOfBinaryTree.java) | 二叉树<br>最小深度 | Easy | |
