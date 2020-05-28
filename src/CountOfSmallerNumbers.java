@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class CountOfSmallerNumbers {
 
-    List<Integer> result = new ArrayList<>();  //结果列表
+    ArrayList<Integer> result = new ArrayList<>();  //结果列表
     int[] indexArr;   //索引数组
     public List<Integer> countSmaller(int[] nums) {
         int len = nums.length;  // 初始化结果列表

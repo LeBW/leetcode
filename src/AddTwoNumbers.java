@@ -1,3 +1,5 @@
+import java.util.ArrayDeque;
+
 /**
  * Use Elementary Math to solve the problem. attention:
  *

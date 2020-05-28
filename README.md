@@ -53,9 +53,12 @@
 | 106 | [Construct Binary Tree from I and P](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [JAVA](./src/ConstructBinaryFromIP.java) | 构建<br>二叉树 | Median | &hearts; |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./src/MinimumDepthOfBinaryTree.java) | 二叉树<br>最小深度 | Easy | |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JAVA](./src/PathSum.java) | 二叉树 | Easy | |
+| 116 | [Populating Next Right Pointers](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
+| 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JAVA](./src/LowestCommonAncestor.java) | 二叉树<br>公共祖先 | Median | &hearts;&hearts; |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
