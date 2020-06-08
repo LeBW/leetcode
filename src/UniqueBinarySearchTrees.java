@@ -17,4 +17,9 @@ public class UniqueBinarySearchTrees {
         }
         return dp[n];
     }
+
+    public static void main(String[] args) {
+        UniqueBinarySearchTrees uniqueBinarySearchTrees = new UniqueBinarySearchTrees();
+        System.out.println(uniqueBinarySearchTrees.numTrees(8));
+    }
 }

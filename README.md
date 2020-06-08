@@ -46,6 +46,7 @@
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
+| 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [JAVA](./src/UniqueBinarySearchTreeII.java) | 二叉搜索<br>递归 | Median | &hearts;&hearts; |
 | 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [JAVA](./src/UniqueBinarySearchTrees.java) | 二叉搜索<br>动态规划 | Median | &hearts; |
 | 99 | [Recover Binary Search Tree](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [JAVA](./src/RecoverBinarySearchTree.java) | 二叉搜索 | Hard | &hearts;&hearts; |
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [JAVA](./src/SymmetricTree.java) | 二叉树<br>对称 | Easy | &hearts; |
