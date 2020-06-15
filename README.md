@@ -62,6 +62,7 @@
 | 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [JAVA](./src/MinimumDepthOfBinaryTree.java) | 二叉树<br>最小深度 | Easy | |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [JAVA](./src/PathSum.java) | 二叉树 | Easy | |
 | 113 | [Path Sum II](https://leetcode-cn.com/problems/path-sum-ii/) | [JAVA](./src/PathSumII.java) | 二叉树 | Medium | &hearts; |
+| 114 | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [JAVA](./src/FlattenBinaryTreeToLinkedList.java) | 二叉树 | Medium | &hearts;&hearts; |
 | 116 | [Populating Next Right Pointers](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
