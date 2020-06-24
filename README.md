@@ -45,6 +45,7 @@
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JAVA](./src/MaximumSubarray.java) | 动态规划<br>线段树 | Easy | &hearts; | 
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
+| 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [JAVA](./src/UniqueBinarySearchTreeII.java) | 二叉搜索<br>递归 | Median | &hearts;&hearts; |
 | 96 | [Unique Binary Search Trees](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [JAVA](./src/UniqueBinarySearchTrees.java) | 二叉搜索<br>动态规划 | Median | &hearts; |
