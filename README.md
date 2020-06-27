@@ -76,6 +76,7 @@
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [JAVA](./src/InvertBinaryTree.java) | 二叉树 | Easy | &hearts; |
 | 230 | [Kth Smallest Element BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JAVA](./src/KthSmallestElementInBST.java) | 二叉树 | Medium | |
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
+| 235 | [Lowest Common Ancestor of a BST](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JAVA](./src/LowestCommonAncestorBST.java) | 二叉搜索<br>公公祖先 | Easy | &hearts; |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JAVA](./src/LowestCommonAncestor.java) | 二叉树<br>公共祖先 | Median | &hearts;&hearts; |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [JAVA](./src/SerializeAndDeserializeBinaryTree.java) | 二叉树<br>序列化<br>反序列化 | Hard | &hearts;&hearts |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
