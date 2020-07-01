@@ -44,6 +44,7 @@
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts; |
 | 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [JAVA](./src/Permutations.java) | 全排列<br>回溯 | Medium | &hearts;&hearts; |
 | 47 | [PermutationsII](https://leetcode-cn.com/problems/permutations-ii/) | [JAVA](./src/PermutationsII.java) | 全排列<br>回溯 | Medium | &hearts; |
+| 51 | [N-Queens](https://leetcode-cn.com/problems/n-queens/) | [JAVA](./src/NQueens.java) | 回溯 | Hard | &hearts; |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JAVA](./src/MaximumSubarray.java) | 动态规划<br>线段树 | Easy | &hearts; | 
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
