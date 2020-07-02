@@ -41,6 +41,7 @@
 | 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudokuSolver.java) | | Hard | |
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
+| 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [JAVA](./src/CombinationSumII.java) | 回溯<br>剪枝 | Medium | &hearts;&hearts; |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts; |
 | 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [JAVA](./src/Permutations.java) | 全排列<br>回溯 | Medium | &hearts;&hearts; |
 | 47 | [PermutationsII](https://leetcode-cn.com/problems/permutations-ii/) | [JAVA](./src/PermutationsII.java) | 全排列<br>回溯 | Medium | &hearts; |
