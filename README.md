@@ -92,6 +92,7 @@
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
+| 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
 
