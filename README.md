@@ -90,6 +90,7 @@
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
+| 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
