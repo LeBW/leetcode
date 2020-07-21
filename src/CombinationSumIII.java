@@ -18,7 +18,7 @@ public class CombinationSumIII {
         }
         if (k == 0) {
             if (target == 0) {
-                result.add(new ArrayList(cur));
+                result.add(new ArrayList<>(cur));
             }
             return;
         }
