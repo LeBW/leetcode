@@ -96,6 +96,7 @@
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
+| 1415 | [The k-th Lexicographical String](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JAVA](./src/TheKthLexicographicalString.java) | 回溯 | Median | &hearts; |
 
 ## LCCI
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
