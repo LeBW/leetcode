@@ -51,6 +51,7 @@
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
+| 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [JAVA](./src/SubsetsII.java) | 回溯<br>组合 | Medium | &hearts; |
 | 93 | [Restore IP Address](https://leetcode-cn.com/problems/restore-ip-addresses/) | 回溯？ | Medium | &hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
 | 95 | [Unique Binary Search Trees II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | [JAVA](./src/UniqueBinarySearchTreeII.java) | 二叉搜索<br>递归 | Median | &hearts;&hearts; |
@@ -78,6 +79,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
 | 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [JAVA](./src/BinaryTreeRightView.java) | 二叉树 | Medium | &hearts; |
+| 216 | [Combination Sum III](https://leetcode-cn.com/problems/combination-sum-iii/) | [JAVA](./src/CombinationSumIII.java) | 回溯<br>组合 | Medium | &hearts; |
 | 222 | [Count Complete Tree Nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/) | [JAVA](./src/CountCompleteTreeNodes.java) | 二叉树 | Medium | &hearts; |
 | 226 | [Invert Binary Tree](https://leetcode-cn.com/problems/invert-binary-tree/) | [JAVA](./src/InvertBinaryTree.java) | 二叉树 | Easy | &hearts; |
 | 230 | [Kth Smallest Element BST](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [JAVA](./src/KthSmallestElementInBST.java) | 二叉树 | Medium | |
@@ -85,14 +87,18 @@
 | 235 | [Lowest Common Ancestor of a BST](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JAVA](./src/LowestCommonAncestorBST.java) | 二叉搜索<br>公公祖先 | Easy | &hearts; |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JAVA](./src/LowestCommonAncestor.java) | 二叉树<br>公共祖先 | Median | &hearts;&hearts; |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [JAVA](./src/SerializeAndDeserializeBinaryTree.java) | 二叉树<br>序列化<br>反序列化 | Hard | &hearts;&hearts |
+| 306 | [Additive Number](https://leetcode-cn.com/problems/additive-number/) | [JAVA](./src/AdditiveNumber.java) | 循环<br>递归 | Medium | &hearts;&hearts; |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
+| 357 | [Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [JAVA](./src/CountNumbersWithUniqueDigits.java) | 回溯 | Medium | &hearts; |
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
+| 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
+| 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [JAVA](./src/LetterTilePossibilities.java) | 回溯<br>剪枝 | Medium | &hearts; |
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
