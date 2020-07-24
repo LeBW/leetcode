@@ -43,6 +43,7 @@
 | 39 | [Combination Sum](https://leetcode-cn.com/problems/combination-sum) | [JAVA](./src/CombinationSum.java) | 回溯法 | Median | &hearts; |
 | 40 | [Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) | [JAVA](./src/CombinationSumII.java) | 回溯<br>剪枝 | Medium | &hearts;&hearts; |
 | 42 | [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water) | [JAVA](./src/TrappingRainWater.java) | 从列入手<br>动态规划<br>双指针 | Hard | &hearts;&hearts;&hearts; |
+| 43 | [Multiply Strings](https://leetcode-cn.com/problems/multiply-strings/) | [JAVA](./src/MultiplyStrings.java) | 字符串 | Medium | &hearts; |
 | 46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [JAVA](./src/Permutations.java) | 全排列<br>回溯 | Medium | &hearts;&hearts; |
 | 47 | [PermutationsII](https://leetcode-cn.com/problems/permutations-ii/) | [JAVA](./src/PermutationsII.java) | 全排列<br>回溯 | Medium | &hearts; |
 | 51 | [N-Queens](https://leetcode-cn.com/problems/n-queens/) | [JAVA](./src/NQueens.java) | 回溯 | Hard | &hearts; |
@@ -74,7 +75,8 @@
 | 116 | [Populating Next Right Pointers](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | | 
+| 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
+| 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; | 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
