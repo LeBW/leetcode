@@ -76,7 +76,8 @@
 | 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
-| 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; | 
+| 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; |
+| 140 | [Word BreakII](https://leetcode-cn.com/problems/word-break-ii/) | [JAVA](./src/https://leetcode-cn.com/problems/word-break-ii/) | 记忆回溯 | Hard | &hearts;&hearts; | 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
