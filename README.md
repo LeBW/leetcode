@@ -102,6 +102,7 @@
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
+| 494 | [Target Sum](https://leetcode-cn.com/problems/target-sum/) | [JAVA](./src/TargetSum.java) | 枚举<br>动态规划 | Medium | &hearts;&hearts; | 
 | 508 | [Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/) | [JAVA](./src/MostFrequentSumtreeSum.java) | 后序遍历<br>哈希 | Medium | |;
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [JAVA](./src/FibonacciNumber.java) | 动态规划 | Easy | |
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
