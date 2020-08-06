@@ -92,6 +92,7 @@
 | 235 | [Lowest Common Ancestor of a BST](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JAVA](./src/LowestCommonAncestorBST.java) | 二叉搜索<br>公公祖先 | Easy | &hearts; |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JAVA](./src/LowestCommonAncestor.java) | 二叉树<br>公共祖先 | Median | &hearts;&hearts; |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [JAVA](./src/SerializeAndDeserializeBinaryTree.java) | 二叉树<br>序列化<br>反序列化 | Hard | &hearts;&hearts; |
+| 300 | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [JAVA](./src/LongestIncreasingSubsequence.java) | 动态规划<br>贪心 | Medium | &hearts;&hearts;&hearts; |
 | 306 | [Additive Number](https://leetcode-cn.com/problems/additive-number/) | [JAVA](./src/AdditiveNumber.java) | 循环<br>递归 | Medium | &hearts;&hearts; |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JAVA](./src/CoinChange.java) | 动态规划 | Medium | &hearts; |
