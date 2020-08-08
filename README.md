@@ -53,6 +53,7 @@
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
+| 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [JAVA](./src/SubsetsII.java) | 回溯<br>组合 | Medium | &hearts; |
 | 93 | [Restore IP Address](https://leetcode-cn.com/problems/restore-ip-addresses/) | 回溯？ | Medium | &hearts; |
@@ -114,6 +115,7 @@
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
+| 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | [JAVA](./src/LongestCommonSubsequence.java) | 动态规划 | Medium | |
 | 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [JAVA](./src/LetterTilePossibilities.java) | 回溯<br>剪枝 | Medium | &hearts; |
 | 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [JAVA](./src/UniqueNumberOfOccurrences.java) | 哈希 | Easy | | 
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
