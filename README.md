@@ -115,6 +115,7 @@
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [JAVA](./src/FibonacciNumber.java) | 动态规划 | Easy | |
 | 518 | [Coin Change II](https://leetcode-cn.com/problems/coin-change-2/) | [JAVA](./src/CoinChangeTwo.java) | 动态规划 | Medium | &hearts; |
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
+| 523 | [Continuous Subarary Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |;
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
