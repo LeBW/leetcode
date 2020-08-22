@@ -136,6 +136,11 @@
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 04.10 | [Check SubTree LCCI](https://leetcode-cn.com/problems/check-subtree-lcci/) | [JAVA](./src/CheckSubTreeLCCI.java) | 二叉树 | Median | &hearts; |
 
+## LCOF
+| # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
+|---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
+| 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
+
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
