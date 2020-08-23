@@ -100,10 +100,11 @@
 | 306 | [Additive Number](https://leetcode-cn.com/problems/additive-number/) | [JAVA](./src/AdditiveNumber.java) | 循环<br>递归 | Medium | &hearts;&hearts; |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JAVA](./src/CoinChange.java) | 动态规划 | Medium | &hearts; |
-| 337 | [House Robber III)(https://leetcode-cn.com/problems/house-robber-iii/) | [JAVA](.src/HouseRobberIII.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 337 | [House Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | [JAVA](.src/HouseRobberIII.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JAVA](./src/IntersectionsOfTwoArrays.java) | 哈希 | Easy | &hearts; |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JAVA](./src/IntersectionOfTwoArraysII.java) | 哈希 | Easy | &hearts; |
 | 357 | [Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [JAVA](./src/CountNumbersWithUniqueDigits.java) | 回溯 | Medium | &hearts; |
+| 374 | [Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [JAVA](./src/GuessNumberHorL.java) | 二分查找 | Easy | |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
@@ -135,6 +136,7 @@
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 04.10 | [Check SubTree LCCI](https://leetcode-cn.com/problems/check-subtree-lcci/) | [JAVA](./src/CheckSubTreeLCCI.java) | 二叉树 | Median | &hearts; |
+| 08.11 | [Coin LCCI](https://leetcode-cn.com/problems/coin-lcci/) | [JAVA](./src/CoinLCCI.java) | 动态规划<br>完全背包 | Medium | &hearts;&hearts; |
 
 ## LCOF
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
