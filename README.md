@@ -106,6 +106,7 @@
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JAVA](./src/IntersectionOfTwoArraysII.java) | 哈希 | Easy | &hearts; |
 | 357 | [Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [JAVA](./src/CountNumbersWithUniqueDigits.java) | 回溯 | Medium | &hearts; |
 | 374 | [Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [JAVA](./src/GuessNumberHorL.java) | 二分查找 | Easy | |
+| 375 | [Guess Number Higher Or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [JAVA](./src/GuessNumberHorLII.java) | 动态规划 | Medium | &hearts; |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [JAVA](./src/IsSubsequence.java) | | Easy | |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
