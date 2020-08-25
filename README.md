@@ -53,6 +53,7 @@
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 58 | [Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JAVA](./src/LengthOfLastWord.java) | 字符串 | Easy | |
+| 60 | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/) | [JAVA](./src/PermutationSequence.java) | DFS | Medium | &hearts; |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
@@ -105,6 +106,7 @@
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JAVA](./src/IntersectionOfTwoArraysII.java) | 哈希 | Easy | &hearts; |
 | 357 | [Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [JAVA](./src/CountNumbersWithUniqueDigits.java) | 回溯 | Medium | &hearts; |
 | 374 | [Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [JAVA](./src/GuessNumberHorL.java) | 二分查找 | Easy | |
+| 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [JAVA](./src/IsSubsequence.java) | | Easy | |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
