@@ -123,6 +123,7 @@
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |;
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
+| 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |

@@ -32,7 +32,7 @@ public class PermutationSequence {
             if (isUsed[i]) {
                 continue;
             }
-            if (cnt < k) {
+            if (cnt < k) {  // 说明不在这个分支里，直接进行剪枝
                 k = k - cnt;
                 continue;
             }
