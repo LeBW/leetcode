@@ -49,7 +49,8 @@
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [JAVA](./src/GroupAnagrams.java) | 哈希 | Medium | &hearts; |
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [JAVA](./src/PowXN.java) | 分治 | Medium | &hearts; |
 | 51 | [N-Queens](https://leetcode-cn.com/problems/n-queens/) | [JAVA](./src/NQueens.java) | 回溯 | Hard | &hearts; |
-| 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JAVA](./src/MaximumSubarray.java) | 动态规划<br>线段树 | Easy | &hearts;&hearts; | 
+| 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [JAVA](./src/MaximumSubarray.java) | 动态规划<br>线段树 | Easy | &hearts;&hearts; |
+| 55 | [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [JAVA](./src/JumpGame.java) | 贪心 | Medium | &hearts; | 
 | 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [JAVA](./src/MergeIntervals.java) | 区间合并<br>排序 | Median | &hearts;&hearts; |
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 58 | [Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JAVA](./src/LengthOfLastWord.java) | 字符串 | Easy | |
