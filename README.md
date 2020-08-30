@@ -55,6 +55,7 @@
 | 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [JAVA](./src/InsertInterval.java) | 区间合并<br>排序 | Hard | &hearts;&hearts; |
 | 58 | [Length Of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) | [JAVA](./src/LengthOfLastWord.java) | 字符串 | Easy | |
 | 60 | [Permutation Sequence](https://leetcode-cn.com/problems/permutation-sequence/) | [JAVA](./src/PermutationSequence.java) | DFS | Medium | &hearts; |
+| 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JAVA](./src/PlusOne.java) | 数组 | Easy | &hearts; |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
