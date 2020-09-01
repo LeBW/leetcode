@@ -121,6 +121,7 @@
 | 494 | [Target Sum](https://leetcode-cn.com/problems/target-sum/) | [JAVA](./src/TargetSum.java) | 枚举<br>动态规划 | Medium | &hearts;&hearts; | 
 | 508 | [Most Frequent Subtree Sum](https://leetcode-cn.com/problems/most-frequent-subtree-sum/) | [JAVA](./src/MostFrequentSumtreeSum.java) | 后序遍历<br>哈希 | Medium | |;
 | 509 | [Fibonacci Number](https://leetcode-cn.com/problems/fibonacci-number/) | [JAVA](./src/FibonacciNumber.java) | 动态规划 | Easy | |
+| 516 | [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [JAVA](./src/LongestPalindromicSubsequence.java) | 动态规划 | Medium | &hearts; |
 | 518 | [Coin Change II](https://leetcode-cn.com/problems/coin-change-2/) | [JAVA](./src/CoinChangeTwo.java) | 动态规划 | Medium | &hearts; |
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
 | 523 | [Continuous Subarary Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
