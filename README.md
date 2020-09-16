@@ -83,6 +83,7 @@
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [JAVA](./src/FlattenBinaryTreeToLinkedList.java) | 二叉树 | Medium | &hearts;&hearts; |
 | 116 | [Populating Next Right Pointers](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
+| 121 | [Best Time to BAS Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JAVA](./src/BestTimeToBuyAndSellStock.java) | 贪心 | Easy | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; |
