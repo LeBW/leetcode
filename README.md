@@ -172,3 +172,6 @@
 | 5417 | [Maximum Number of Vowels](https://leetcode-cn.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [JAVA](./src/MaximumNumberOfVowels.java) | 滑动窗口 | Median | &hearts; |
 | 5418 | [Pseudo-Palindromic Paths Binary Tree](https://leetcode-cn.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [JAVA](./src/PseudoPalindromicPath.java) | 回文序列<br>二叉树 | Median | &hearts; |
 | 5419 | [Max Dot Product of Two Subsequences](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences/) | [JAVA](./src/MaxDotProductOfTwoSubsequences.java) | 动态规划 | Hard | &hearts; |
+| 5519 | [Rearrange Spaces Between Words](https://leetcode-cn.com/problems/rearrange-spaces-between-words/) | [JAVA](./src/RearrangeSpacesBetweenWords.java) | 字符串 | Easy | &hearts; |
+| 5520 | [Split a String into the Max Number](https://leetcode-cn.com/problems/maximum-non-negative-product-in-a-matrix/) | [JAVA](./src/SplitStringIntoTheMaxNumberOfUniqueSubstrings.java) | 回溯 | Medium | &hearts; |
+| 5521 | [Maximum Non Negative Product in a Matrix](https://leetcode-cn.com/problems/maximum-non-negative-product-in-a-matrix/) | [JAVA](./src/MaximumNonNegativeProduct.java) | 动态规划 | Medium | &hearts; |
