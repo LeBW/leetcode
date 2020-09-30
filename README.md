@@ -60,6 +60,7 @@
 | 66 | [Plus One](https://leetcode-cn.com/problems/plus-one/) | [JAVA](./src/PlusOne.java) | 数组 | Easy | &hearts; |
 | 67 | [Add Binary](https://leetcode-cn.com/problems/add-binary/) | [JAVA](./src/AddBinary.java) | 字符串 | Easy | |
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
+| 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JAVA](./src/ClimbingStairs.java) | 动态规划 | Easy | |
 | 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [JAVA](./src/SubsetsII.java) | 回溯<br>组合 | Medium | &hearts; |
