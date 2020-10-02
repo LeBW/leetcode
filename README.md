@@ -141,6 +141,7 @@
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [JAVA](./src/JewelsAndStones.java) | 哈希 | Easy | |
 | 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 837 | [New 21 Game](https://leetcode-cn.com/problems/new-21-game/) | [JAVA](./src/New21Game.java) | 动态规划 | Medium | &hearts;&hearts; |
