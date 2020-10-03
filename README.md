@@ -2,7 +2,7 @@
 
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
-| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum) | [JAVA](./src/TwoSum.java) |       | Easy       |              |
+| 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum) | [JAVA](./src/TwoSum.java) |  哈希  | Easy       |   &hearts;       |
 | 2 | [Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers) | [JAVA](./src/AddTwoNumbers.java) | 链表 | Median | &hearts; |
 | 3 | [Longest Substring Without Repeating Character](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [JAVA](./src/LongestSubstring.java) | 滑动窗口 | Median | &hearts;&hearts;&hearts;|
 | 4 | [Median of Two Sorted Arrays](https://leetcode-cn.com/problems/median-of-two-sorted-arrays) | [JAVA](./src/FindMedianSortedArrays.java) | | Hard | |
