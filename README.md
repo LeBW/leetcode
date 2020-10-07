@@ -62,7 +62,9 @@
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JAVA](./src/ClimbingStairs.java) | 动态规划 | Easy | |
 | 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
+| 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [JAVA](./src/SortColors.java) | 计数排序 | Easy | &hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
+| 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [JAVA](./src/WordSearch.java) | 回溯 | Medium | &hearts; | 
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [JAVA](./src/SubsetsII.java) | 回溯<br>组合 | Medium | &hearts; |
 | 93 | [Restore IP Address](https://leetcode-cn.com/problems/restore-ip-addresses/) | [JAVA](./src/RestoreIPAddress.java) | 回溯？ | Medium | &hearts; |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [JAVA](./src/BinaryTreeInorderTraversal.java) | 二叉树<br>中序遍历 | Medium | &hearts;&hearts; |
