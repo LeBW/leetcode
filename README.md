@@ -128,6 +128,7 @@
 | 375 | [Guess Number Higher Or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [JAVA](./src/GuessNumberHorLII.java) | 动态规划 | Medium | &hearts; |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [JAVA](./src/IsSubsequence.java) | | Easy | |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
+| 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Meidum | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
