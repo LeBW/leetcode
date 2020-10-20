@@ -99,7 +99,8 @@
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; |
 | 140 | [Word BreakII](https://leetcode-cn.com/problems/word-break-ii/) | [JAVA](./src/WordBreakII.java) | 记忆回溯 | Hard | &hearts;&hearts; |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [JAVA](./src/LinkedListCycle.java) | 快慢指针 | Easy | &hearts; |
-| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [JAVA](./src/LinkedListCycleII.java) | 哈希 | Medium | &hearts; | 
+| 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [JAVA](./src/LinkedListCycleII.java) | 哈希 | Medium | &hearts; |
+| 143 | [Reorder List](https://leetcode-cn.com/problems/reorder-list/) | [JAVA](./src/ReorderList.java) | 链表 | Medium | &hearts;&hearts; | 
 | 144 | [Binary Tree Preorder Traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [JAVA](./src/BinaryTreePreorderTraversal.java) | 二叉树<br>前序遍历 | Medium | &hearts;&hearts; |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JAVA](./src/LRUCache.java) | 哈希表<br>双向链表 | Medium | &hearts;&hearts; |
