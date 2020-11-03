@@ -105,6 +105,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JAVA](./src/LRUCache.java) | 哈希表<br>双向链表 | Medium | &hearts;&hearts; |
 | 148 | [Sort List](https://leetcode-cn.com/problems/sort-list/) | [JAVA](./src/SortList.java) | 链表排序 | Medium | &hearts; |
+| 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [JAVA](./src/MaximumProductSubarray.java) | 动态规划 | Medium | &hearts; |
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
 | 188 | [Best Time to BAS Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [JAVA](./src/BestTimeToBuyAndSellStockIV.java) | 动态规划 | Hard | &hearts;&hearts;&hearts; |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [JAVA](./src/HouseRobber.java) | 动态规划 | Easy | &hearts; |
@@ -162,6 +163,7 @@
 | 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
+| 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [JAVA](./src/ValidMountainArray.java) | 数组 | Easy | &hearts; |
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 978 | [Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [JAVA](./src/LongestTurbulentSubarray.java) | 动态规划 | Medium | &hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |  

@@ -2,6 +2,8 @@ import java.util.*;
 
 /**
  * 381. Insert Delete GetRandom O(1) - Duplicates allowed
+ * 列表 + 哈希表
+ * 注意在删除元素的时候，为了保证其他元素的索引不变，需要将待删除的元素与列表末尾元素交换后，再删除。（同时也要修改列表末尾元素所对应Set中的索引）
  * @author LBW
  */
 public class RandomizedCollection {
