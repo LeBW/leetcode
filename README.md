@@ -176,7 +176,8 @@
 | 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [JAVA](./src/UniqueNumberOfOccurrences.java) | 哈希 | Easy | | 
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
-| 1314 | [Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [JAVA](./src/UniqueSubstringsInWraparoundString.java) | 动态规划<br>字典 | Medium | &hearts;&hearts; | 
+| 1314 | [Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [JAVA](./src/UniqueSubstringsInWraparoundString.java) | 动态规划<br>字典 | Medium | &hearts;&hearts; |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [JAVA](./src/SortIntegersByBits.java) | 数组<br>排序<br>位运算 | Easy | &hearts; | 
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
 | 1415 | [The k-th Lexicographical String](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JAVA](./src/TheKthLexicographicalString.java) | 回溯 | Median | &hearts; |
 
