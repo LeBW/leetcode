@@ -108,7 +108,8 @@
 | 148 | [Sort List](https://leetcode-cn.com/problems/sort-list/) | [JAVA](./src/SortList.java) | 链表排序 | Medium | &hearts; |
 | 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [JAVA](./src/MaximumProductSubarray.java) | 动态规划 | Medium | &hearts; |
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JAVA](./src/MinStack.java) | 栈 | Easy | &hearts; |
-| 160 | [Intersection of Two Linked List](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [JAVA](./src/IntersectionOfTwoLinkedList.java) | 链表 | Easy | &hearts;&hearts; | 
+| 160 | [Intersection of Two Linked List](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [JAVA](./src/IntersectionOfTwoLinkedList.java) | 链表 | Easy | &hearts;&hearts; |
+| 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [JAVA](./src/MajorityElement.java) | 摩尔投票 | Easy | &hearts; | 
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
 | 188 | [Best Time to BAS Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [JAVA](./src/BestTimeToBuyAndSellStockIV.java) | 动态规划 | Hard | &hearts;&hearts;&hearts; |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [JAVA](./src/HouseRobber.java) | 动态规划 | Easy | &hearts; |
