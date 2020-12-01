@@ -35,8 +35,8 @@
 | 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation) | [JAVA](./src/NextPermutation.java) | | Median | |
 | 32 | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses) | [JAVA](./src/LongestValidParentheses.java) | | Hard | |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [JAVA](./src/SearchInRotatedSortedArray.java) | | Median | |
-| 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | | Median | |
-| 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position) | [JAVA](./src/SearchInsertPosition.java) | | Easy | |
+| 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | 二分查找| Median | &hearts; &hearts;|
+| 35 | [Search Insert Position](https://leetcode-cn.com/problems/search-insert-position) | [JAVA](./src/SearchInsertPosition.java) | 二分查找| Easy | &hearts;&hearts; |
 | 36 | [Valid Sudoku](https://leetcode-cn.com/problems/valid-sudoku) | [JAVA](./src/ValidSudoku.java) | | Median | |
 | 37 | [Sudoku Solver](https://leetcode-cn.com/problems/sudoku-solver) | [JAVA](./src/SudokuSolver.java) | | Hard | |
 | 38 | [Count and Say](https://leetcode-cn.com/problems/count-and-say) | [JAVA](./src/CountAndSay.java) | | Easy | |

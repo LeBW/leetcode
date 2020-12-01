@@ -1,34 +1,24 @@
 /**
+ * 35. Search Insert Position
+ * 二分查找，经典题目。
  * @author LBW
  */
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
-        if (nums.length == 0)
-            return 0;
-
-        return find(nums, 0, nums.length - 1, target);
-    }
-
-    private int find(int[] nums, int l, int r, int target){
-        if (l > r) {
-            return l;
+        int n = nums.length, left = 0, right = n - 1;
+        // 特殊情况，所有元素都小于target，于是target需要插在末尾
+        if (target > nums[right])
+            return n;
+        // 普通情况下，找出【大于等于】target的最小值下标，这就是需要插入的地方
+        while (left < right) {
+            int mid = (left + right) / 2;  // 因为right不会桌主动向左偏，所以mid需要向下取整（向左偏）
+            if (nums[mid] < target) { // 排除
+                left = mid + 1;
+            }
+            else {
+                right = mid;
+            }
         }
-        else if (l == r) {
-            if (nums[l] >= target)
-                return l;
-            else
-                return l + 1;
-        }
-
-        int mid = (l + r) / 2;
-        if (nums[mid] == target) {
-            return mid;
-        }
-        else if (nums[mid] > target) {
-            return find(nums, l, mid - 1, target);
-        }
-        else {
-            return find(nums, mid + 1, r, target);
-        }
+        return left;
     }
 }
