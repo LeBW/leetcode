@@ -172,6 +172,7 @@
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 837 | [New 21 Game](https://leetcode-cn.com/problems/new-21-game/) | [JAVA](./src/New21Game.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [JAVA](./src/BackspaceStringCompare.java) | 栈 | Easy | |
+| 861 | [Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [JAVA](./src/ScoreAfterFlippingMatrix.java) | 贪心 | Medium | &hearts; |
 | 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
