@@ -171,6 +171,7 @@
 | 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 837 | [New 21 Game](https://leetcode-cn.com/problems/new-21-game/) | [JAVA](./src/New21Game.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 842 | [Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [JAVA](./src/SplitArrayIntoFibonacciSequence.java) | 回溯 | Medium | &hearts;&hearts; |
 | 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [JAVA](./src/BackspaceStringCompare.java) | 栈 | Easy | |
 | 861 | [Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [JAVA](./src/ScoreAfterFlippingMatrix.java) | 贪心 | Medium | &hearts; |
 | 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
