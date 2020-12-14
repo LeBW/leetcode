@@ -9,14 +9,19 @@ public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
         for (String str: strs) {
-            char[] c = str.toCharArray();
-            Arrays.sort(c);
-            String sortedStr = String.valueOf(c);
-            if (!map.containsKey(sortedStr)) {
-                map.put(sortedStr, new ArrayList<>());
-            }
-            map.get(sortedStr).add(str);
+            char[] cs = str.toCharArray();
+            Arrays.sort(cs);
+            String key = String.valueOf(cs);
+            List<String> l = map.getOrDefault(key, new ArrayList<>());
+            l.add(str);
+            map.put(key, l);
         }
         return new ArrayList<>(map.values());
+    }
+
+    public static void main(String[] args) {
+        GroupAnagrams groupAnagrams = new GroupAnagrams();
+        List<List<String>> list = groupAnagrams.groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});
+        System.out.println(list);
     }
 }
