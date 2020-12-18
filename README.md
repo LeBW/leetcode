@@ -144,6 +144,7 @@
 | 374 | [Guess Number Higher Or Lower](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | [JAVA](./src/GuessNumberHorL.java) | 二分查找 | Easy | |
 | 375 | [Guess Number Higher Or Lower II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [JAVA](./src/GuessNumberHorLII.java) | 动态规划 | Medium | &hearts; |
 | 381 | [Insert Delete GetRandom O(1)](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [JAVA](./src/RandomizedCollection.java) | 列表<br>哈希 | Hard | &hearts; |
+| 389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/) | [JAVA](./src/FindTheDifference.java) | 哈希 | Easy | |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [JAVA](./src/IsSubsequence.java) | | Easy | |
 | 402 | [Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/) | [JAVA](./src/RemoveKDigits.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
