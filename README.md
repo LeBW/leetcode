@@ -172,6 +172,7 @@
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
 | 738 | [Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [JAVA](./src/MonotoneIncreasingDigits.java) | 贪心<br>字符串 | Medium | &hearts;&hearts; |
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [JAVA](./src/MinCostClimbingStairs.java) | 动态规划 | Easy | &hearts; |
 | 767 | [Reorganize String](https://leetcode-cn.com/problems/reorganize-string/) | [JAVA](./src/ReorganizeString.java) | 贪心 | Medium | &hearts; |
 | 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [JAVA](./src/JewelsAndStones.java) | 哈希 | Easy | |
 | 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
