@@ -1,7 +1,4 @@
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.Deque;
-import java.util.List;
+import java.util.*;
 
 /**
  * 103. Binary Tree Zigzag Level Order Traversal
@@ -10,33 +7,38 @@ import java.util.List;
  */
 public class BinaryTreeZigZag {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<TreeNode> queue = new ArrayList<>();
-        queue.add(root);
-        List<List<Integer>> result =  new ArrayList<>();
-        boolean seq = true;  // first, left to right
+        List<TreeNode> queue = new LinkedList<>();
+        if (root != null)
+            queue.add(root);
+        boolean inOrder = false;
+        List<List<Integer>> res = new ArrayList<>();
         while (!queue.isEmpty()) {
             int size = queue.size();
-            List<Integer> l = new ArrayList<>();
-            for (int i = 0; i < size; i++) {
-                TreeNode cur = queue.get(size - i - 1);
-                queue.remove(size - i - 1);
-                if (seq) {
-                    if (cur.left != null)
-                        queue.add(cur.left);
-                    if (cur.right != null)
-                        queue.add(cur.right);
+            // add list to res
+            List<Integer> list = new ArrayList<>();
+            if (inOrder) {
+                for (int i = size - 1; i >= 0; i--) {
+                    list.add(queue.get(i).val);
                 }
-                else {
-                    if (cur.right != null)
-                        queue.add(cur.right);
-                    if (cur.left != null)
-                        queue.add(cur.left);
-                }
-                l.add(cur.val);
             }
-            result.add(l);
-            seq = !seq;
+            else {
+                for (int i = 0; i < size; i++) {
+                    list.add(queue.get(i).val);
+                }
+            }
+            res.add(list);
+            // add next level
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = queue.get(0);
+                queue.remove(0);
+                if (cur.left != null)
+                    queue.add(cur.left);
+                if (cur.right != null)
+                    queue.add(cur.right);
+            }
+            //reverse Order
+            inOrder = !inOrder;
         }
-        return result;
+        return res;
     }
 }
