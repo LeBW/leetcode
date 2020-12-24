@@ -97,6 +97,7 @@
 | 127 | [Word Ladder](https://leetcode-cn.com/problems/word-ladder/) | [JAVA](./src/WordLadder.java) | BFS | Medium | &hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
 | 134 | [Gas Station](https://leetcode-cn.com/problems/gas-station/) | [JAVA](./src/GasStation.java) | 贪心 | Medium | &hearts; |
+| 135 | [Candy](https://leetcode-cn.com/problems/candy/) | [JAVA](./src/Candy.java) | 贪心 | Hard | &hearts;&hearts; |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [JAVA](./src/SingleNumber.java) | 位运算<br>哈希 | Easy | &hearts; |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; |
 | 140 | [Word BreakII](https://leetcode-cn.com/problems/word-break-ii/) | [JAVA](./src/WordBreakII.java) | 记忆回溯 | Hard | &hearts;&hearts; |
