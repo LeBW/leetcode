@@ -119,6 +119,7 @@
 | 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [JAVA](./src/BinaryTreeRightView.java) | 二叉树 | Medium | &hearts; |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [JAVA](./src/NumberOfIslands.java) | DFS | Medium | &hearts; |
 | 204 | [Count Primes](https://leetcode-cn.com/problems/count-primes/) | [JAVA](./src/CountPrimes.java) | 质数<br>筛 | Easy | &hearts; |
+| 205 | [Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/) | [JAVA](./src/IsomorphicStrings.java) | 哈希 | Easy | |
 | 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [JAVA](./src/ReverseLinkedList.java) | 链表 | Medium | &hearts; |
 | 207 | [Course Schedule](https://leetcode-cn.com/problems/course-schedule/) | [JAVA](./src/CourseSchedule.java) | 拓扑排序 | Medium | &hearts; |
 | 208 | [Implement Trie](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [JAVA](./src/ImplementTrie.java) | 前缀树 | Medium | &hearts; |
