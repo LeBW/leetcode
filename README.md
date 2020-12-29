@@ -141,6 +141,7 @@
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 321 | [Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/) | [JAVA](./src/CreateMaximumNumber.java) | 单调栈<br>数组 | Hard | &hearts;&hearts;&hearts; |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JAVA](./src/CoinChange.java) | 动态规划 | Medium | &hearts; |
+| 330 | [Patching Arrays](https://leetcode-cn.com/problems/patching-array/solution/) | [JAVA](./src/PatchingArray.java) | 贪心 | Hard | &hearts;&hearts; |
 | 337 | [House Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | [JAVA](./src/HouseRobberIII.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 343 | [Integer Break](https://leetcode-cn.com/problems/integer-break/) | [JAVA](./src/IntegerBreak.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JAVA](./src/ReverseString.java) | 双指针 | Medium | |
