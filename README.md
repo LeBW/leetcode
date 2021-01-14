@@ -205,6 +205,7 @@
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 978 | [Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [JAVA](./src/LongestTurbulentSubarray.java) | 动态规划 | Medium | &hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
+| 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [JAVA](./src/LastStoneWeight.java) | 堆 | Easy | &hearts; |
