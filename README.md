@@ -202,6 +202,7 @@
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [JAVA](./src/ValidMountainArray.java) | 数组 | Easy | &hearts; |
+| 947 | [Most Stones Removed with SRC](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [JAVA](./src/MostStonesRemoved.java) | 并查集 | Medium | &hearts; |
 | 973 | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [JAVA](./src/KClosestPointsToOrigin.java) | 快排 | Medium | &hearts; |
 | 976 | [Largest Perimeter Triangle](https://leetcode-cn.com/problems/largest-perimeter-triangle/) | [JAVA](./src/LargestPerimeterTriangle.java) | 贪心 | Easy | &hearts; |   
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
