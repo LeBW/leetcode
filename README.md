@@ -219,6 +219,7 @@
 | 1203 | [Sort Items by Group](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | [JAVA](./src/SortItemsByGroups.java) | 双层拓扑 | Hard | &hearts;&hearts; |
 | 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [JAVA](./src/UniqueNumberOfOccurrences.java) | 哈希 | Easy | | 
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
+| 1232 | [Check if it is a straight line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [JAVA](./src/CheckIfItStraightLine.java) | 数学 | Easy | |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
 | 1314 | [Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [JAVA](./src/UniqueSubstringsInWraparoundString.java) | 动态规划<br>字典 | Medium | &hearts;&hearts; |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [JAVA](./src/SortIntegersByBits.java) | 数组<br>排序<br>位运算 | Easy | &hearts; | 
