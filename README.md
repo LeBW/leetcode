@@ -182,6 +182,7 @@
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvinces.java) | 连通分量 | Medium | |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
+| 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
