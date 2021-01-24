@@ -186,6 +186,7 @@
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
+| 674 | [Longest Continous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
 | 721 | [Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/) | [JAVA](./src/AccountsMerge.java) | 并查集 | Medium | &hearts; |
