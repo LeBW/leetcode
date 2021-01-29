@@ -235,6 +235,7 @@
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
 | 1415 | [The k-th Lexicographical String](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JAVA](./src/TheKthLexicographicalString.java) | 回溯 | Median | &hearts; |
 | 1584 | [Min Cost to Connect All Points](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [JAVA](./src/MinCostToConnectAllPoints.java) | 生成树 | Medium | &hearts;&hearts; |
+| 1631 | [Path With Minimum Effort](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [JAVA](./src/PathWithMinimumEffort.java) | 最短路径 | Medium | &hearts; |
 
 ## LCCI
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
