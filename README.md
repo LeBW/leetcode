@@ -208,6 +208,7 @@
 | 861 | [Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [JAVA](./src/ScoreAfterFlippingMatrix.java) | 贪心 | Medium | &hearts; |
 | 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
+| 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [JAVA](./src/FairCandySwap.java) | 数学<br>哈希 | Easy | &hearts; |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [JAVA](./src/ValidMountainArray.java) | 数组 | Easy | &hearts; |
 | 947 | [Most Stones Removed with SRC](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [JAVA](./src/MostStonesRemoved.java) | 并查集 | Medium | &hearts; |
