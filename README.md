@@ -229,7 +229,8 @@
 | 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [JAVA](./src/LetterTilePossibilities.java) | 回溯<br>剪枝 | Medium | &hearts; |
 | 1202 | [Smallest String with Swaps](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | [JAVA](./src/SmallestStringWithSwaps.java) | 并查集 | Medium | &hearts;&hearts; |
 | 1203 | [Sort Items by Group](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | [JAVA](./src/SortItemsByGroups.java) | 双层拓扑 | Hard | &hearts;&hearts; |
-| 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [JAVA](./src/UniqueNumberOfOccurrences.java) | 哈希 | Easy | | 
+| 1207 | [Unique Number of Occurrences](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [JAVA](./src/UniqueNumberOfOccurrences.java) | 哈希 | Easy | |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | [JAVA](./src/GetEqualSubstringsWithinBudget.java) | 滑动窗口 | Medium | &hearts; |
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1232 | [Check if it is a straight line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [JAVA](./src/CheckIfItStraightLine.java) | 数学 | Easy | |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
