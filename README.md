@@ -139,6 +139,7 @@
 | 238 | [Product Of Array Excep Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [JAVA](./src/SlidingWindowMaximum.java) | 单调栈 | Hard | &hearts; |
 | 240 | [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [JAVA](./src/SearchATwoDMatrix.java) | 数学 | Medium | &hearts; |
+| 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [JAVA](./src/PerfectSquares.java) | 动态规划 | Medium | &hearts; |
 | 290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | [JAVA](./src/WordPattern.java) | 哈希 | Easy | &hearts; |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [JAVA](./src/SerializeAndDeserializeBinaryTree.java) | 二叉树<br>序列化<br>反序列化 | Hard | &hearts;&hearts; |
 | 300 | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [JAVA](./src/LongestIncreasingSubsequence.java) | 动态规划<br>贪心 | Medium | &hearts;&hearts;&hearts; |
