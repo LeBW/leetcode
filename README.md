@@ -220,6 +220,7 @@
 | 977 | [Squares of a Sorted Array](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [JAVA](./src/SquaresOfASortedArray.java) | 双指针 | Easy | &hearts; |
 | 978 | [Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [JAVA](./src/LongestTurbulentSubarray.java) | 动态规划 | Medium | &hearts; |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [JAVA](./src/AddToArrayFormOfInteger.java) | 数组 | Easy |  |
+| 992 | [Subarrays with K Different I](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [JAVA](./src/SubarraysWithKDifferentIntegers.java) | 滑动窗口 | Hard | &hearts;&hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
