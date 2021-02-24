@@ -227,6 +227,7 @@
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [JAVA](./src/LastStoneWeight.java) | 堆 | Easy | &hearts; |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/submissions/) | [JAVA](./src/GrumpyBookstoreOwner.java) | 滑动窗口 | Medium | &hearts; |
 | 1105 | [Filling Bookcase Shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/) | [JAVA](./src/FillingBookcaseShelves.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 1128 | [Number of Equivalent Domino](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [JAVA](./src/NumberOfEquivalentDominoPairs.java) | 哈希 | Easy | &hearts; |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | [JAVA](./src/LongestCommonSubsequence.java) | 动态规划 | Medium | |
