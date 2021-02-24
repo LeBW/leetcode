@@ -204,6 +204,7 @@
 | 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 830 | [Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [JAVA](./src/PositionsOfLargeGroups.java) | 数组 | Easy | |
+| 832 | [Flipping an image](https://leetcode-cn.com/problems/flipping-an-image/) | [JAVA](./src/FlippingAnImage.java) | 模拟 | Easy | |
 | 837 | [New 21 Game](https://leetcode-cn.com/problems/new-21-game/) | [JAVA](./src/New21Game.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 839 | [Similar String Groups](https://leetcode-cn.com/problems/similar-string-groups/) | [JAVA](./src/SimilarStringGroups.java) | 并查集 | Hard | &hearts; |
 | 842 | [Split Array into Fibonacci Sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [JAVA](./src/SplitArrayIntoFibonacciSequence.java) | 回溯 | Medium | &hearts;&hearts; |
