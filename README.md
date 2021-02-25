@@ -211,6 +211,7 @@
 | 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [JAVA](./src/BackspaceStringCompare.java) | 栈 | Easy | |
 | 860 | [Lemonade Change](https://leetcode-cn.com/problems/lemonade-change/) | [JAVA](./src/LemonadeChange.java) | 模拟 | Easy | |
 | 861 | [Score After Flipping Matrix](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [JAVA](./src/ScoreAfterFlippingMatrix.java) | 贪心 | Medium | &hearts; |
+| 867 | [Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/) | [JAVA](./src/TransposeMatrix.java) | 数组 | Easy | | 
 | 877 | [Stone Game](https://leetcode-cn.com/problems/stone-game/) | [JAVA](./src/StoneGame.java) | 博弈DP | Medium | &hearts;&hearts; |
 | 887 | [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [JAVA](./src/SuperEggDrop.java) | 动态规划<br>二分查找 | Hard | &hearts;&hearts;&hearts; |
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [JAVA](./src/FairCandySwap.java) | 数学<br>哈希 | Easy | &hearts; |
