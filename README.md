@@ -144,6 +144,7 @@
 | 290 | [Word Pattern](https://leetcode-cn.com/problems/word-pattern/) | [JAVA](./src/WordPattern.java) | 哈希 | Easy | &hearts; |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) | [JAVA](./src/SerializeAndDeserializeBinaryTree.java) | 二叉树<br>序列化<br>反序列化 | Hard | &hearts;&hearts; |
 | 300 | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [JAVA](./src/LongestIncreasingSubsequence.java) | 动态规划<br>贪心 | Medium | &hearts;&hearts;&hearts; |
+| 303 | [Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [JAVA](./src/RangeSumQuery.java) | 数组 | Easy | |
 | 306 | [Additive Number](https://leetcode-cn.com/problems/additive-number/) | [JAVA](./src/AdditiveNumber.java) | 循环<br>递归 | Medium | &hearts;&hearts; |
 | 309 | [Best Time To BAS Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JAVA](./src/BestTimeToBASStockWithCooldown.java) | Medium | &hearts;&hearts; |
 | 312 | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/) | [JAVA](./src/BurstBalloons.java) | 动态规划 | Hard | &hearts;&hearts; |
