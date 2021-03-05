@@ -230,15 +230,15 @@
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [JAVA](./src/AddToArrayFormOfInteger.java) | 数组 | Easy |  |
 | 992 | [Subarrays with K Different I](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [JAVA](./src/SubarraysWithKDifferentIntegers.java) | 滑动窗口 | Hard | &hearts;&hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
-| 1114 | [Print In Order](https://leetcode-cn.com/problems/print-in-order/submissions/) | [JAVA](./src/PrintInOrder.java) | 并发 | Easy | &hearts; |
-| 1115 | [Print FooBar Alternately](https://leetcode-cn.com/problems/print-foobar-alternately/) | [JAVA](./src/PrintFooBarAlternately.java) | 并发 | Medium | &hearts; |
-| 1116 | [Print Zero Even Odd](https://leetcode-cn.com/problems/print-zero-even-odd/) | [JAVA](./src/PrintZeroEvenOdd.java) | 并发 | Medium | &hearts; |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [JAVA](./src/LastStoneWeight.java) | 堆 | Easy | &hearts; |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/submissions/) | [JAVA](./src/GrumpyBookstoreOwner.java) | 滑动窗口 | Medium | &hearts; |
 | 1105 | [Filling Bookcase Shelves](https://leetcode-cn.com/problems/filling-bookcase-shelves/) | [JAVA](./src/FillingBookcaseShelves.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 1114 | [Print In Order](https://leetcode-cn.com/problems/print-in-order/submissions/) | [JAVA](./src/PrintInOrder.java) | 并发 | Easy | &hearts; |
+| 1115 | [Print FooBar Alternately](https://leetcode-cn.com/problems/print-foobar-alternately/) | [JAVA](./src/PrintFooBarAlternately.java) | 并发 | Medium | &hearts; |
+| 1116 | [Print Zero Even Odd](https://leetcode-cn.com/problems/print-zero-even-odd/) | [JAVA](./src/PrintZeroEvenOdd.java) | 并发 | Medium | &hearts; |
 | 1128 | [Number of Equivalent Domino](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [JAVA](./src/NumberOfEquivalentDominoPairs.java) | 哈希 | Easy | &hearts; |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | [JAVA](./src/LongestCommonSubsequence.java) | 动态规划 | Medium | |
 | 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [JAVA](./src/LetterTilePossibilities.java) | 回溯<br>剪枝 | Medium | &hearts; |
