@@ -231,6 +231,8 @@
 | 992 | [Subarrays with K Different I](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [JAVA](./src/SubarraysWithKDifferentIntegers.java) | 滑动窗口 | Hard | &hearts;&hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
 | 1114 | [Print In Order](https://leetcode-cn.com/problems/print-in-order/submissions/) | [JAVA](./src/PrintInOrder.java) | 并发 | Easy | &hearts; |
+| 1115 | [Print FooBar Alternately](https://leetcode-cn.com/problems/print-foobar-alternately/) | [JAVA](./src/PrintFooBarAlternately.java) | 并发 | Medium | &hearts; |
+| 1116 | [Print Zero Even Odd](https://leetcode-cn.com/problems/print-zero-even-odd/) | [JAVA](./src/PrintZeroEvenOdd.java) | 并发 | Medium | &hearts; |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
