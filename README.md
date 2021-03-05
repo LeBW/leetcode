@@ -187,7 +187,7 @@
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
 | 523 | [Continuous Subarary Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [JAVA](./src/ConvertBSTtoGreaterTree.java) | Easy | |
-| 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvinces.java) | 连通分量 | Medium | |
+| 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
@@ -195,7 +195,7 @@
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [JAVA](./src/NonDecreasingArray.java) | 数学 | Easy | &hearts; |
-| 674 | [Longest Continous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinousIncreasingSubsequence.java) | 数组 | Easy | |
+| 674 | [Longest Continous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
 | 721 | [Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/) | [JAVA](./src/AccountsMerge.java) | 并查集 | Medium | &hearts; |
