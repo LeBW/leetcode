@@ -255,6 +255,7 @@
 | 1314 | [Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [JAVA](./src/UniqueSubstringsInWraparoundString.java) | 动态规划<br>字典 | Medium | &hearts;&hearts; |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [JAVA](./src/SortIntegersByBits.java) | 数组<br>排序<br>位运算 | Easy | &hearts; | 
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
+| 1411 | [Number of Ways to Patin 3N Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/) | [JAVA](./src/NumberOfWaysToPaint.java) | 数学<br>动态规划 | Hard | &hearts; |
 | 1415 | [The k-th Lexicographical String](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JAVA](./src/TheKthLexicographicalString.java) | 回溯 | Median | &hearts; |
 | 1423 | [Maximum Points You Can Obtain](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [JAVA](./src/MaximumPointsYouCanObtain.java) | 滑动窗口 | Medium | &hearts; |
 | 1584 | [Min Cost to Connect All Points](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [JAVA](./src/MinCostToConnectAllPoints.java) | 生成树 | Medium | &hearts;&hearts; |
