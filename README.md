@@ -241,6 +241,7 @@
 | 1114 | [Print In Order](https://leetcode-cn.com/problems/print-in-order/submissions/) | [JAVA](./src/PrintInOrder.java) | 并发 | Easy | &hearts; |
 | 1115 | [Print FooBar Alternately](https://leetcode-cn.com/problems/print-foobar-alternately/) | [JAVA](./src/PrintFooBarAlternately.java) | 并发 | Medium | &hearts; |
 | 1116 | [Print Zero Even Odd](https://leetcode-cn.com/problems/print-zero-even-odd/) | [JAVA](./src/PrintZeroEvenOdd.java) | 并发 | Medium | &hearts; |
+| 1117 | [Building H2O](https://leetcode-cn.com/problems/building-h2o/) | [JAVA](./src/BuildingH2O.java) | 并发 | Medium | &hearts; |
 | 1128 | [Number of Equivalent Domino](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | [JAVA](./src/NumberOfEquivalentDominoPairs.java) | 哈希 | Easy | &hearts; |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | [JAVA](./src/LongestCommonSubsequence.java) | 动态规划 | Medium | |
 | 1079 | [Letter Tile Possibilities](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [JAVA](./src/LetterTilePossibilities.java) | 回溯<br>剪枝 | Medium | &hearts; |
