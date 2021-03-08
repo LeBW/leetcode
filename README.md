@@ -98,6 +98,7 @@
 | 127 | [Word Ladder](https://leetcode-cn.com/problems/word-ladder/) | [JAVA](./src/WordLadder.java) | BFS | Medium | &hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [JAVA](./src/PalindromePartitioning.java) | 动态规划<br>回溯 | Medium | &hearts;&hearts; |
+| 132 | [Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [JAVA](./src/PalindromePartitioningII.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 134 | [Gas Station](https://leetcode-cn.com/problems/gas-station/) | [JAVA](./src/GasStation.java) | 贪心 | Medium | &hearts; |
 | 135 | [Candy](https://leetcode-cn.com/problems/candy/) | [JAVA](./src/Candy.java) | 贪心 | Hard | &hearts;&hearts; |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [JAVA](./src/SingleNumber.java) | 位运算<br>哈希 | Easy | &hearts; |
