@@ -164,6 +164,7 @@
 | 338 | [Counting Bits](https://leetcode-cn.com/problems/counting-bits/) | [JAVA](./src/CountingBits.java) | 动态规划<br>位运算 | Medium | &hearts;&hearts; |
 | 343 | [Integer Break](https://leetcode-cn.com/problems/integer-break/) | [JAVA](./src/IntegerBreak.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JAVA](./src/ReverseString.java) | 双指针 | Medium | |
+| 347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [JAVA](./src/TopKFrequentElements.java) | 哈希<br>堆 | Medium | &hearts; |
 | 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [JAVA](./src/IntersectionsOfTwoArrays.java) | 哈希 | Easy | &hearts; |
 | 350 | [Intersection of Two Arrays II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) | [JAVA](./src/IntersectionOfTwoArraysII.java) | 哈希 | Easy | &hearts; |
 | 357 | [Count Numbers with Unique Digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [JAVA](./src/CountNumbersWithUniqueDigits.java) | 回溯 | Medium | &hearts; |
