@@ -158,6 +158,7 @@
 | 321 | [Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/) | [JAVA](./src/CreateMaximumNumber.java) | 单调栈<br>数组 | Hard | &hearts;&hearts;&hearts; |
 | 322 | [Coin Change](https://leetcode-cn.com/problems/coin-change/) | [JAVA](./src/CoinChange.java) | 动态规划 | Medium | &hearts; |
 | 330 | [Patching Arrays](https://leetcode-cn.com/problems/patching-array/solution/) | [JAVA](./src/PatchingArray.java) | 贪心 | Hard | &hearts;&hearts; |
+| 331 | [Verify Preorder Serialization](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [JAVA](./src/VerifyPreorderSerialization.java) | 栈 | Medium | &hearts; |
 | 337 | [House Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | [JAVA](./src/HouseRobberIII.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 338 | [Counting Bits](https://leetcode-cn.com/problems/counting-bits/) | [JAVA](./src/CountingBits.java) | 动态规划<br>位运算 | Medium | &hearts;&hearts; |
 | 343 | [Integer Break](https://leetcode-cn.com/problems/integer-break/) | [JAVA](./src/IntegerBreak.java) | 动态规划 | Medium | &hearts;&hearts; |
