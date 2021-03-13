@@ -154,6 +154,7 @@
 | 304 | [Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [JAVA](./src/RangeSumQuery2D.java) | 数组 | Medium | |
 | 306 | [Additive Number](https://leetcode-cn.com/problems/additive-number/) | [JAVA](./src/AdditiveNumber.java) | 循环<br>递归 | Medium | &hearts;&hearts; |
 | 309 | [Best Time To BAS Stock with Cooldown](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [JAVA](./src/BestTimeToBASStockWithCooldown.java) | Medium | &hearts;&hearts; |
+| 310 | [Minimum Height Tree](https://leetcode-cn.com/problems/minimum-height-trees/) | [JAVA](./src/MinimumHeightTrees.java) | 层序遍历<br>最外层 | Medium | &hearts; |
 | 312 | [Burst Balloons](https://leetcode-cn.com/problems/burst-balloons/) | [JAVA](./src/BurstBalloons.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 315 | [Count of Smaller Numbers](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | [JAVA](./src/CountOfSmallerNumbers.java) | 归并思想 | Hard | &hearts; |
 | 321 | [Create Maximum Number](https://leetcode-cn.com/problems/create-maximum-number/) | [JAVA](./src/CreateMaximumNumber.java) | 单调栈<br>数组 | Hard | &hearts;&hearts;&hearts; |
