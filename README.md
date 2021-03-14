@@ -206,6 +206,7 @@
 | 674 | [Longest Continous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [JAVA](./src/DesignHashSet.java) | 哈希 | Easy | |
+| 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [JAVA](./src/DesignHashMap.java) | 哈希 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
 | 721 | [Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/) | [JAVA](./src/AccountsMerge.java) | 并查集 | Medium | &hearts; |
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [JAVA](./src/FindPivotIndex.java) | 数组 | Easy | |
