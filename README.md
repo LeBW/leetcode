@@ -175,6 +175,7 @@
 | 387 | [First Unique Char in a String](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | [JAVA](./src/FirstUniqueCharacter.java) | 哈希 | Easy | |
 | 389 | [Find the Difference](https://leetcode-cn.com/problems/find-the-difference/) | [JAVA](./src/FindTheDifference.java) | 哈希 | Easy | |
 | 392 | [Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/) | [JAVA](./src/IsSubsequence.java) | | Easy | |
+| 394 | [Decode String](https://leetcode-cn.com/problems/decode-string/) | [JAVA](./src/DecodeString.java) | 栈<br>字符串 | Medium | &hearts; |
 | 399 | [Evaluate Division](https://leetcode-cn.com/problems/evaluate-division/) | [JAVA](./src/EvaluateDivision.java) | 邻接表<br>图 | Medium | &hearts;&hearts; |
 | 402 | [Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/) | [JAVA](./src/RemoveKDigits.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
