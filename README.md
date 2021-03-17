@@ -178,6 +178,7 @@
 | 394 | [Decode String](https://leetcode-cn.com/problems/decode-string/) | [JAVA](./src/DecodeString.java) | 栈<br>字符串 | Medium | &hearts; |
 | 399 | [Evaluate Division](https://leetcode-cn.com/problems/evaluate-division/) | [JAVA](./src/EvaluateDivision.java) | 邻接表<br>图 | Medium | &hearts;&hearts; |
 | 402 | [Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/) | [JAVA](./src/RemoveKDigits.java) | 单调栈 | Medium | &hearts;&hearts; |
+| 406 | [Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [JAVA](./src/QueueReconstructionByHeight.java) | 双层排序 | Medium | &hearts; |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
 | 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Meidum | &hearts;&hearts; |
 | 435 | [Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [JAVA](./src/NonOverlappingIntervals.java) | 贪心 | Medium | &hearts; |
