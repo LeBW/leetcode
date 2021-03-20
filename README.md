@@ -112,6 +112,7 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [JAVA](./src/BinaryTreePostorderTraversal.java) | 二叉树<br>后序遍历 | Hard | &hearts;&hearts;&hearts; |
 | 146 | [LRU Cache](https://leetcode-cn.com/problems/lru-cache/) | [JAVA](./src/LRUCache.java) | 哈希表<br>双向链表 | Medium | &hearts;&hearts; |
 | 148 | [Sort List](https://leetcode-cn.com/problems/sort-list/) | [JAVA](./src/SortList.java) | 链表排序 | Medium | &hearts; |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [JAVA](./src/EvaluateReversePolishNotation.java) | 栈 | Medium | &hearts; |
 | 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [JAVA](./src/MaximumProductSubarray.java) | 动态规划 | Medium | &hearts; |
 | 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [JAVA](./src/MinStack.java) | 栈 | Easy | &hearts; |
 | 160 | [Intersection of Two Linked List](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [JAVA](./src/IntersectionOfTwoLinkedList.java) | 链表 | Easy | &hearts;&hearts; |
