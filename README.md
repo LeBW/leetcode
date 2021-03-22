@@ -121,6 +121,7 @@
 | 173 | [Binary Search Tree Iterator](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [JAVA](./src/BinarySearchTreeIterator.java) | 二叉树 | Medium | |
 | 188 | [Best Time to BAS Stock IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/) | [JAVA](./src/BestTimeToBuyAndSellStockIV.java) | 动态规划 | Hard | &hearts;&hearts;&hearts; |
 | 189 | [Rotate Array](https://leetcode-cn.com/problems/rotate-array/) | [JAVA](./src/RotateArray.java) | 数组 | Medium | |
+| 191 | [Number Of 1 Bits](https://leetcode-cn.com/problems/number-of-1-bits/) | [JAVA](./src/NumberOf1Bits.java) | 位运算 | Medium | &hearts; |
 | 198 | [House Robber](https://leetcode-cn.com/problems/house-robber/) | [JAVA](./src/HouseRobber.java) | 动态规划 | Easy | &hearts; |
 | 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [JAVA](./src/BinaryTreeRightView.java) | 二叉树 | Medium | &hearts; |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [JAVA](./src/NumberOfIslands.java) | DFS | Medium | &hearts; |
