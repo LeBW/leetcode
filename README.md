@@ -166,6 +166,7 @@
 | 331 | [Verify Preorder Serialization](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [JAVA](./src/VerifyPreorderSerialization.java) | 栈 | Medium | &hearts; |
 | 337 | [House Robber III](https://leetcode-cn.com/problems/house-robber-iii/) | [JAVA](./src/HouseRobberIII.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 338 | [Counting Bits](https://leetcode-cn.com/problems/counting-bits/) | [JAVA](./src/CountingBits.java) | 动态规划<br>位运算 | Medium | &hearts;&hearts; |
+| 341 | [Flatten Nested List Iterator](https://leetcode-cn.com/problems/flatten-nested-list-iterator/) | [JAVA](./src/FlattenNestedListIterator.java) | DFS | Medium | &hearts; |
 | 343 | [Integer Break](https://leetcode-cn.com/problems/integer-break/) | [JAVA](./src/IntegerBreak.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 344 | [Reverse String](https://leetcode-cn.com/problems/reverse-string/) | [JAVA](./src/ReverseString.java) | 双指针 | Medium | |
 | 347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [JAVA](./src/TopKFrequentElements.java) | 哈希<br>堆 | Medium | &hearts; |
