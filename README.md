@@ -187,6 +187,7 @@
 | 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Meidum | &hearts;&hearts; |
 | 435 | [Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [JAVA](./src/NonOverlappingIntervals.java) | 贪心 | Medium | &hearts; |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [JAVA](./src/AssignCookies.java) | 贪心 | Easy | |
+| 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
 | 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
