@@ -68,6 +68,7 @@
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
 | 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [JAVA](./src/WordSearch.java) | 回溯 | Medium | &hearts; |
 | 82 | [Remove Duplicates From SL II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [JAVA](./src/RemoveDuplicatesFromSortedListII.java) | 链表 | Medium | &hearts; |
+| 83 | [Remove Duplicates From SL](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [JAVA](./src/RemoveDuplicatesFromSL.java) | 链表 | Easy | |
 | 84 | [Largest Rectangle Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [JAVA](./src/LargestRectangleInHistogram.java) | 单调栈 | Hard | &hearts;&hearts; |
 | 86 | [Partition List](https://leetcode-cn.com/problems/partition-list/) | [JAVA](./src/PartitionList.java) | 链表 | Medium | &hearts; |
 | 90 | [Subsets II](https://leetcode-cn.com/problems/subsets-ii/) | [JAVA](./src/SubsetsII.java) | 回溯<br>组合 | Medium | &hearts; |
