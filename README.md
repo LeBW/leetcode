@@ -94,6 +94,7 @@
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) | [JAVA](./src/FlattenBinaryTreeToLinkedList.java) | 二叉树 | Medium | &hearts;&hearts; |
 | 116 | [Populating Next Right Pointers](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
 | 117 | [Populating Next Right Pointers II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [JAVA](./src/PopulatingNextRightPointers.java) | 二叉树<br> | Median | |
+| 118 | [Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/) | [JAVA](./src/PascalTriangle.java) | Easy | 迭代 | |
 | 121 | [Best Time to BAS Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [JAVA](./src/BestTimeToBuyAndSellStock.java) | 贪心 | Easy | |
 | 122 | [Best Time to BAS Stock II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [JAVA](./src/BestTimeToBuyAndSellStockII.java) | 动态规划 | Easy | &hearts;&hearts; |
 | 123 | [Best Time To BAS Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [JAVA](./src/BestTimeToBuyAndSellStockIII.java) | 动态规划 | Hard | &hearts;&hearts; |
