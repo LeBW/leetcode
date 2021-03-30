@@ -64,6 +64,7 @@
 | 69 | [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/) | [JAVA](./src/SqrtX.java) | 二分查找<br>牛顿迭代 | Easy | &hearts; |
 | 70 | [Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/) | [JAVA](./src/ClimbingStairs.java) | 动态规划 | Easy | |
 | 72 | [Edit Distance](https://leetcode-cn.com/problems/edit-distance/) | [JAVA](./src/EditDistance.java) | 动态规划 | Hard | &hearts;&hearts; |
+| 74 | [Search a 2D Matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/) | [JAVA](./src/SearchA2DMatrix.java) | 二分查找 | Medium | &hearts; |
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [JAVA](./src/SortColors.java) | 计数排序 | Easy | &hearts; |
 | 76 | [Minimum Window Substring](https://leetcode-cn.com/problems/minimum-window-substring/) | [JAVA](./src/MinimumWindowSubstring.java) | 滑动窗口 | Hard | &hearts; &hearts; |
 | 78 | [Subsets](https://leetcode-cn.com/problems/subsets/) | [JAVA](./src/Subsets.java) | 递归 | Medium | &hearts; |
