@@ -229,6 +229,7 @@
 | 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [JAVA](./src/MinCostClimbingStairs.java) | 动态规划 | Easy | &hearts; |
 | 767 | [Reorganize String](https://leetcode-cn.com/problems/reorganize-string/) | [JAVA](./src/ReorganizeString.java) | 贪心 | Medium | &hearts; |
 | 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [JAVA](./src/JewelsAndStones.java) | 哈希 | Easy | |
+| 781 | [Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/) | [JAVA](./src/RabbitsInForest.java) | 数学 | Medium | &hearts; |
 | 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 815 | [Bus Routes](https://leetcode-cn.com/problems/bus-routes/) | [JAVA](./src/BusRoutes.java) | BFS | Hard | &hearts; |
