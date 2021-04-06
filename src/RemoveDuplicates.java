@@ -28,15 +28,16 @@ public class RemoveDuplicates {
 
     public int standardSolution(int[] nums) {
         //双指针法
-        if (nums.length == 0)
-            return 0;
-        int i = 0;
-        for (int j = 1; j < nums.length; j++) {
-            if (nums[j] != nums[i]) {
-                i++;
-                nums[i] = nums[j];
+        int n = nums.length;
+        if (n < 2)
+            return n;
+        int slow = 1, fast = 1;
+        while (fast < n) {
+            if (nums[fast] != nums[slow - 1]) {
+                nums[slow++] = nums[fast];
             }
+            fast += 1;
         }
-        return i + 1;
+        return slow;
     }
 }
