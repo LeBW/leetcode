@@ -153,7 +153,7 @@
 | 234 | [PalindromeLinkedList](https://leetcode-cn.com/problems/palindrome-linked-list) | [JAVA](./src/PalindromeLinkedList.java) | 快慢指针<br>链表反转 | Easy | &hearts; |
 | 235 | [Lowest Common Ancestor of a BST](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [JAVA](./src/LowestCommonAncestorBST.java) | 二叉搜索<br>公公祖先 | Easy | &hearts; |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [JAVA](./src/LowestCommonAncestor.java) | 二叉树<br>公共祖先<br>后序遍历 | Median | &hearts;&hearts; |
-| 238 | [Product Of Array Excep Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
+| 238 | [Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [JAVA](./src/SlidingWindowMaximum.java) | 单调栈 | Hard | &hearts; |
 | 240 | [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [JAVA](./src/SearchATwoDMatrix.java) | 数学 | Medium | &hearts; |
 | 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [JAVA](./src/PerfectSquares.java) | 动态规划 | Medium | &hearts; |
@@ -193,7 +193,7 @@
 | 402 | [Remove K Digits](https://leetcode-cn.com/problems/remove-k-digits/) | [JAVA](./src/RemoveKDigits.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 406 | [Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [JAVA](./src/QueueReconstructionByHeight.java) | 双层排序 | Medium | &hearts; |
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
-| 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Meidum | &hearts;&hearts; |
+| 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Medium | &hearts;&hearts; |
 | 435 | [Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [JAVA](./src/NonOverlappingIntervals.java) | 贪心 | Medium | &hearts; |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [JAVA](./src/AssignCookies.java) | 贪心 | Easy | |
 | 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
@@ -209,7 +209,7 @@
 | 516 | [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [JAVA](./src/LongestPalindromicSubsequence.java) | 动态规划 | Medium | &hearts; |
 | 518 | [Coin Change II](https://leetcode-cn.com/problems/coin-change-2/) | [JAVA](./src/CoinChangeTwo.java) | 动态规划 | Medium | &hearts; |
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
-| 523 | [Continuous Subarary Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
+| 523 | [Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [JAVA](./src/ConvertBSTtoGreaterTree.java) | Easy | |
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
@@ -219,7 +219,7 @@
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [JAVA](./src/NonDecreasingArray.java) | 数学 | Easy | &hearts; |
-| 674 | [Longest Continous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
+| 674 | [Longest Continuous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [JAVA](./src/DesignHashSet.java) | 哈希 | Easy | |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [JAVA](./src/DesignHashMap.java) | 哈希 | Medium | &hearts; |
@@ -232,7 +232,7 @@
 | 767 | [Reorganize String](https://leetcode-cn.com/problems/reorganize-string/) | [JAVA](./src/ReorganizeString.java) | 贪心 | Medium | &hearts; |
 | 771 | [Jewels and Stones](https://leetcode-cn.com/problems/jewels-and-stones/) | [JAVA](./src/JewelsAndStones.java) | 哈希 | Easy | |
 | 781 | [Rabbits in Forest](https://leetcode-cn.com/problems/rabbits-in-forest/) | [JAVA](./src/RabbitsInForest.java) | 数学 | Medium | &hearts; |
-| 787 | [Cheapest Flights Wighin K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/) | 动态规划 | Medium | &hearts;&hearts; |
 | 784 | [Letter Case Permutation](https://leetcode-cn.com/problems/letter-case-permutation/) | [JAVA](./src/LetterCasePermutation.java) | 全排列 | Easy | &hearts; |
 | 815 | [Bus Routes](https://leetcode-cn.com/problems/bus-routes/) | [JAVA](./src/BusRoutes.java) | BFS | Hard | &hearts; |
 | 830 | [Positions of Large Groups](https://leetcode-cn.com/problems/positions-of-large-groups/) | [JAVA](./src/PositionsOfLargeGroups.java) | 数组 | Easy | |

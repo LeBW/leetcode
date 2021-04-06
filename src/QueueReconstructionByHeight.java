@@ -8,7 +8,7 @@ import java.util.Comparator;
  * 2. 然后在结果中针对people进行插入。
  * @author LBW
  */
-public class QueueResconstructionByHeight {
+public class QueueReconstructionByHeight {
     public int[][] reconstructQueue(int[][] people) {
         Arrays.sort(people, new Comparator<int[]>() {
             @Override
