@@ -1,4 +1,8 @@
 /**
+ * 33. Search in Rotated Sorted Array
+ * 二分查找法。
+ * 在找到 mid 之后，至少有一侧：[left, mid] 或者 [mid, right] 是有序的。
+ * 所以我们可以先判断在不在有序的这一侧（if），从而决定接下来在哪一侧寻找。
  * @author LBW
  */
 public class SearchInRotatedSortedArray {
@@ -60,4 +64,35 @@ public class SearchInRotatedSortedArray {
         else
             return binarySearch(nums, mid+1, r-1,  target);
     }
-}
+
+
+    // 方法二：标准的二分查找
+    public int searchTwo(int[] nums, int target) {
+        int n = nums.length;
+        int left = 0, right = n - 1;
+        while (left < right) {
+            int mid = left + (right - left) / 2; // 这里的 mid 是向下取整
+            if (nums[mid] == target) {
+                return mid;
+            }
+            if (nums[mid] >= nums[left]) { // 说明[left, mid]是有序的
+                if (target < nums[mid] && target >= nums[left]) {
+                    right = mid - 1;
+                }
+                else {
+                    left = mid + 1;
+                }
+            }
+            else { // 说明 [mid, right] 是有序的
+                if (target > nums[mid] && target <= nums[right]) {
+                    left = mid + 1;
+                }
+                else {
+                    right = mid - 1;
+                }
+            }
+        }
+        if (nums[left] == target)
+            return left;
+        return -1;
+    }}
