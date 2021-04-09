@@ -8,6 +8,8 @@ import java.util.PriorityQueue;
  * <br>
  * In my solution, I use the PriorityQueue(min heap) to solve the problem.
  *
+ * 23. Merge k Sorted Lists
+ * 最小堆（优先级队列）
  * @author LBW
  */
 public class MergeKLists {

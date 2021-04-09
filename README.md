@@ -24,7 +24,7 @@
 | 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses) | [JAVA](./src/ValidParentheses.java) | | Easy
 | 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists) | [JAVA](./src/MergeTwoSortedLists.java) | | Easy | |
 | 22 | [Generate Parentheses](https://leetcode-cn.com/problems/generate-parentheses) | [JAVA](./src/GenerateParenthesis.java) | | Median | |
-| 23 | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [JAVA](./src/MergeKLists.java) | | Hard | |
+| 23 | [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists) | [JAVA](./src/MergeKLists.java) | 堆<br>分治 | Hard | &hearts; |
 | 24 | [Swap Nodes in Pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs) | [JAVA](./src/SwapNodesInPairs.java) | | Median | |
 | 25 | [Reverse Nodes in k-Group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | [JAVA](./src/ReverseKGroup.java) | | Hard | |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [JAVA](./src/RemoveDuplicates.java) | | Easy | |
