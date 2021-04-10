@@ -157,6 +157,7 @@
 | 238 | [Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [JAVA](./src/SlidingWindowMaximum.java) | 单调栈 | Hard | &hearts; |
 | 240 | [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [JAVA](./src/SearchATwoDMatrix.java) | 数学 | Medium | &hearts; |
+| 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JAVA](./src/UglyNumber.java) | 数学 | Easy | |
 | 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [JAVA](./src/PerfectSquares.java) | 动态规划 | Medium | &hearts; |
 | 283 | [Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/) | [JAVA](./src/MoveZeroes.java) | 数组 | Easy | &hearts; |
 | 287 | [Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [JAVA](./src/FindTheDuplicateNumber.java) | 哈希<br>快慢指针<br>二分 | Medium | &hearts; |
