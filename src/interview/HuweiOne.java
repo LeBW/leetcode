@@ -2,7 +2,7 @@ package interview;
 
 import java.util.*;
 
-public class MainTwo {
+public class HuweiOne {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = Integer.parseInt(scanner.nextLine());
