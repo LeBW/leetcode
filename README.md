@@ -264,6 +264,7 @@
 | 992 | [Subarrays with K Different I](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [JAVA](./src/SubarraysWithKDifferentIntegers.java) | 滑动窗口 | Hard | &hearts;&hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
 | 1006 | [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [JAVA](./src/ClumsyFactorial.java) | 栈 | Medium | &hearts; |
+| 1011 | [Capacity To Ship Packages](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [JAVA](./src/CapacityToShipWithinDDays.java) | 二分查找 | Medium | &hearts;&hearts; |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
 | 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
