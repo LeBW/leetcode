@@ -112,6 +112,7 @@
 | 134 | [Gas Station](https://leetcode-cn.com/problems/gas-station/) | [JAVA](./src/GasStation.java) | 贪心 | Medium | &hearts; |
 | 135 | [Candy](https://leetcode-cn.com/problems/candy/) | [JAVA](./src/Candy.java) | 贪心 | Hard | &hearts;&hearts; |
 | 136 | [Single Number](https://leetcode-cn.com/problems/single-number/) | [JAVA](./src/SingleNumber.java) | 位运算<br>哈希 | Easy | &hearts; |
+| 137 | [Single Number II](https://leetcode-cn.com/problems/single-number-ii/) | [JAVA](./src/SingleNumberII.java) | 位运算 | Medium | &hearts; |
 | 139 | [Word Break](https://leetcode-cn.com/problems/word-break/) | [JAVA](./src/WordBreak.java) | 动态规划 | Medium | &hearts; |
 | 140 | [Word BreakII](https://leetcode-cn.com/problems/word-break-ii/) | [JAVA](./src/WordBreakII.java) | 记忆回溯 | Hard | &hearts;&hearts; |
 | 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [JAVA](./src/LinkedListCycle.java) | 快慢指针 | Easy | &hearts; |
@@ -254,6 +255,7 @@
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [JAVA](./src/FairCandySwap.java) | 数学<br>哈希 | Easy | &hearts; |
 | 896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | [JAVA](./src/MonotonicArray.java) | 数组 | Easy | |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
+| 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [JAVA](./src/RangeOfBST.java) | 平衡二叉 | Easy | |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [JAVA](./src/ValidMountainArray.java) | 数组 | Easy | &hearts; |
 | 947 | [Most Stones Removed with SRC](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [JAVA](./src/MostStonesRemoved.java) | 并查集 | Medium | &hearts; |
 | 973 | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [JAVA](./src/KClosestPointsToOrigin.java) | 快排 | Medium | &hearts; |
