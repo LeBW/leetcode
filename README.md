@@ -226,6 +226,7 @@
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [JAVA](./src/NonDecreasingArray.java) | 数学 | Easy | &hearts; |
 | 674 | [Longest Continuous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
+| 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [JAVA](./src/EmployeeImportance.java) | 哈希<br>DFS | Easy | &hearts; |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [JAVA](./src/DesignHashSet.java) | 哈希 | Easy | |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [JAVA](./src/DesignHashMap.java) | 哈希 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
