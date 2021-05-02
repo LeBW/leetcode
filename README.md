@@ -217,6 +217,7 @@
 | 523 | [Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [JAVA](./src/ConvertBSTtoGreaterTree.java) | Easy | |
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
+| 554 | [Brick Wall](https://leetcode-cn.com/problems/brick-wall/) | [JAVA](./src/BrickWall.java) | 哈希 | Medium | &hearts; |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
