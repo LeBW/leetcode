@@ -299,6 +299,7 @@
 | 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [JAVA](./src/KthMissingPositiveNumber.java) | 数组 | Easy | &hearts; |
 | 1584 | [Min Cost to Connect All Points](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [JAVA](./src/MinCostToConnectAllPoints.java) | 生成树 | Medium | &hearts;&hearts; |
 | 1631 | [Path With Minimum Effort](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [JAVA](./src/PathWithMinimumEffort.java) | 最短路径 | Medium | &hearts; |
+| 1720 | [Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [JAVA](./src/DecodeXORedArray.java) | 位运算 | Easy | |
 
 ## LCCI
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
