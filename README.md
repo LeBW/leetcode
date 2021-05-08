@@ -301,6 +301,7 @@
 | 1584 | [Min Cost to Connect All Points](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [JAVA](./src/MinCostToConnectAllPoints.java) | 生成树 | Medium | &hearts;&hearts; |
 | 1631 | [Path With Minimum Effort](https://leetcode-cn.com/problems/path-with-minimum-effort/) | [JAVA](./src/PathWithMinimumEffort.java) | 最短路径 | Medium | &hearts; |
 | 1720 | [Decode XORed Array](https://leetcode-cn.com/problems/decode-xored-array/) | [JAVA](./src/DecodeXORedArray.java) | 位运算 | Easy | |
+| 1723 | [Find Minimum Time to Finish All jobs](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs/) | [JAVA](./src/FindMinimumTimeToFinishAllJobs.java) | 回溯<br>剪枝 | Hard | &hearts;&hearts; |
 
 ## LCCI
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
