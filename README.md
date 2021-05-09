@@ -296,6 +296,7 @@
 | 1411 | [Number of Ways to Patin 3N Grid](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid/) | [JAVA](./src/NumberOfWaysToPaint.java) | 数学<br>动态规划 | Hard | &hearts; |
 | 1415 | [The k-th Lexicographical String](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [JAVA](./src/TheKthLexicographicalString.java) | 回溯 | Median | &hearts; |
 | 1423 | [Maximum Points You Can Obtain](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | [JAVA](./src/MaximumPointsYouCanObtain.java) | 滑动窗口 | Medium | &hearts; |
+| 1482 | [Minimum Number of Days to MmB](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [JAVA](./src/MinimumNumberOfDays.java) | 二分法 | Medium | &hearts; | 
 | 1486 | [XOR Operation in An Array](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | [JAVA](./src/XOROperationInAnArray.java) | 位运算 | Easy | |
 | 1539 | [Kth Missing Positive Number](https://leetcode-cn.com/problems/kth-missing-positive-number/) | [JAVA](./src/KthMissingPositiveNumber.java) | 数组 | Easy | &hearts; |
 | 1584 | [Min Cost to Connect All Points](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/) | [JAVA](./src/MinCostToConnectAllPoints.java) | 生成树 | Medium | &hearts;&hearts; |
