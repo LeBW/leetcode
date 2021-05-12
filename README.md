@@ -291,6 +291,7 @@
 | 1219 | [Path With Maximum Gold](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [JAVA](./src/PathWithMaximumGold.java) | DFS<br>回溯 | Medium | &hearts; |
 | 1232 | [Check if it is a straight line](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | [JAVA](./src/CheckIfItStraightLine.java) | 数学 | Easy | |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits/) | [JAVA](./src/FindNumbersWithEvenNumberOfDigits.java) | | Easy | |
+| 1310 | [XOR Queries of a Subarray](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [JAVA](./src/XORQueriesOfASubarray.java) | 前缀异或 | Medium | &hearts; | 
 | 1314 | [Unique Substrings in Wraparound String](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/) | [JAVA](./src/UniqueSubstringsInWraparoundString.java) | 动态规划<br>字典 | Medium | &hearts;&hearts; |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [JAVA](./src/SortIntegersByBits.java) | 数组<br>排序<br>位运算 | Easy | &hearts; | 
 | 1367 | [Linked List in Binary Tree](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [JAVA](./src/LinkedListInBinaryTree.java) | 二叉树<br>遍历 | Median | &hearts; |
