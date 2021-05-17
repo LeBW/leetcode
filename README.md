@@ -267,6 +267,7 @@
 | 978 | [Longest Turbulent Subarray](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | [JAVA](./src/LongestTurbulentSubarray.java) | 动态规划 | Medium | &hearts; |
 | 989 | [Add to Array-Form of Integer](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | [JAVA](./src/AddToArrayFormOfInteger.java) | 数组 | Easy |  |
 | 992 | [Subarrays with K Different I](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | [JAVA](./src/SubarraysWithKDifferentIntegers.java) | 滑动窗口 | Hard | &hearts;&hearts; |
+| 993 | [Cousins in Binary Tree](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [JAVA](./src/CousinsInBinaryTree.java) | BFS | Easy | &hearts; |
 | 1002 | [Find Common Characters](https://leetcode-cn.com/problems/find-common-characters/) | [JAVA](./src/FindCommonCharacters.java) |
 | 1006 | [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [JAVA](./src/ClumsyFactorial.java) | 栈 | Medium | &hearts; |
 | 1011 | [Capacity To Ship Packages](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [JAVA](./src/CapacityToShipWithinDDays.java) | 二分查找 | Medium | &hearts;&hearts; |
