@@ -1,3 +1,5 @@
+package lcof;
+
 /**
  * 剑指 Offer 42. 连续子数组的最大和  LCOF
  * 基本的动态规划。
