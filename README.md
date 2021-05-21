@@ -228,6 +228,7 @@
 | 674 | [Longest Continuous IS](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [JAVA](./src/LongestContinuousIncreasingSubsequence.java) | 数组 | Easy | |
 | 684 | [Redundant Connection](https://leetcode-cn.com/problems/redundant-connection/) | [JAVA](./src/RedundantConnection.java) | 判断图环<br>并查集 | Medium | &hearts; |
 | 690 | [Employee Importance](https://leetcode-cn.com/problems/employee-importance/) | [JAVA](./src/EmployeeImportance.java) | 哈希<br>DFS | Easy | &hearts; |
+| 692 | [Top K Frequent Words](https://leetcode-cn.com/problems/top-k-frequent-words/) | [JAVA](./src/TopKFrequentWords.java) | 哈希<br>最小堆 | Medium | &hearts;&hearts; |
 | 705 | [Design HashSet](https://leetcode-cn.com/problems/design-hashset/) | [JAVA](./src/DesignHashSet.java) | 哈希 | Easy | |
 | 706 | [Design HashMap](https://leetcode-cn.com/problems/design-hashmap/) | [JAVA](./src/DesignHashMap.java) | 哈希 | Medium | &hearts; |
 | 714 | [Best Time to Buy and Sell Stock WTF](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [JAVA](./src/BestTimeToBASStockWTF.java) | 动态规划 | Medium | &hearts; |
@@ -258,7 +259,7 @@
 | 888 | [Fair Candy Swap](https://leetcode-cn.com/problems/fair-candy-swap/) | [JAVA](./src/FairCandySwap.java) | 数学<br>哈希 | Easy | &hearts; |
 | 896 | [Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/) | [JAVA](./src/MonotonicArray.java) | 数组 | Easy | |
 | 912 | [Sort an Array](https://leetcode-cn.com/problems/sort-an-array/) | [JAVA](./src/SortAnArray.java) | 快速排序 | Median | &hearts; |
-| 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [JAVA](./src/RangeOfBST.java) | 平衡二叉 | Easy | |
+| 938 | [Range Sum of BST](https://leetcode-cn.com/problems/range-sum-of-bst/) | [JAVA](./src/RangeSumOfBST.java) | 平衡二叉 | Easy | |
 | 941 | [Valid Mountain Array](https://leetcode-cn.com/problems/valid-mountain-array/) | [JAVA](./src/ValidMountainArray.java) | 数组 | Easy | &hearts; |
 | 947 | [Most Stones Removed with SRC](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | [JAVA](./src/MostStonesRemoved.java) | 并查集 | Medium | &hearts; |
 | 973 | [K Closest Points to Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | [JAVA](./src/KClosestPointsToOrigin.java) | 快排 | Medium | &hearts; |
@@ -272,7 +273,8 @@
 | 1006 | [Clumsy Factorial](https://leetcode-cn.com/problems/clumsy-factorial/) | [JAVA](./src/ClumsyFactorial.java) | 栈 | Medium | &hearts; |
 | 1011 | [Capacity To Ship Packages](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/) | [JAVA](./src/CapacityToShipWithinDDays.java) | 二分查找 | Medium | &hearts;&hearts; |
 | 1018 | [Binary Prefix Divisible by 5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | [JAVA](./src/BinaryPrefixDivisibleBy5.java) | 进制 | Easy | &hearts; |
-| 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |   
+| 1030 | [Matrix Cells in Distance Order](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [JAVA](./src/MatrixCellsInDistanceOrder.java) | 模拟 | Easy | |
+| 1035 | [Uncrossed Lines](https://leetcode-cn.com/problems/uncrossed-lines/) | [JAVA](./src/UncrossedLines.java) | 动态规划 | Medium | &hearts; |
 | 1038 | [BST to Greater Sum Tree](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [JAVA](./src/BinarySearchTreeGS.java) | 二叉树<br>中序遍历 | Median | &hearts; |
 | 1046 | [Last Stone Weight](https://leetcode-cn.com/problems/last-stone-weight/) | [JAVA](./src/LastStoneWeight.java) | 堆 | Easy | &hearts; |
 | 1047 | [Remove All Adjacent Duplicates](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/) | [JAVA](./src/RemoveAllAdjacentDuplicates.java) | 栈 | Easy | &hearts; |
@@ -319,7 +321,7 @@
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 03 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer03.java) | 哈希 | Easy | | 
 | 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [JAVA](./src/lcof/Offer04.java) | 二维数组 | Medium | &hearts; |
-| 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
+| 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
