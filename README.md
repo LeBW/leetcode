@@ -321,6 +321,7 @@
 |---|-----------------------------------------------------|---------------------------|-------|------------|--------------|
 | 03 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer03.java) | 哈希 | Easy | | 
 | 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [JAVA](./src/lcof/Offer04.java) | 二维数组 | Medium | &hearts; |
+| 05 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [JAVA](./src/lcof/Offer05.java) | 字符串 | Easy | |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
