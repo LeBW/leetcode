@@ -322,6 +322,8 @@
 | 03 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer03.java) | 哈希 | Easy | | 
 | 04 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [JAVA](./src/lcof/Offer04.java) | 二维数组 | Medium | &hearts; |
 | 05 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [JAVA](./src/lcof/Offer05.java) | 字符串 | Easy | |
+| 06 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [JAVA](./src/lcof/Offer06.java) | 链表 | Easy | |
+| 07 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [JAVA](./src/lcof/Offer07.java) | 递归 | Medium |  &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
