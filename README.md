@@ -324,7 +324,9 @@
 | 05 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [JAVA](./src/lcof/Offer05.java) | 字符串 | Easy | |
 | 06 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [JAVA](./src/lcof/Offer06.java) | 链表 | Easy | |
 | 07 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [JAVA](./src/lcof/Offer07.java) | 递归 | Medium |  &hearts; |
-| 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [JAVA](./src/lcof/Offer09.java) | 栈 | Easy | | 
+| 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [JAVA](./src/lcof/Offer09.java) | 栈 | Easy | |
+| 10 | [斐波拉契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [JAVA](./src/lcof/Offer10.java) | 动态规划 | Easy | |
+| 11 | [旋转数组的最小数组](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [JAVA](./src/lcof/Offer11.java) | 二分 | Hard | &hearts;&hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
