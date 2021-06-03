@@ -327,6 +327,7 @@
 | 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [JAVA](./src/lcof/Offer09.java) | 栈 | Easy | |
 | 10 | [斐波拉契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [JAVA](./src/lcof/Offer10.java) | 动态规划 | Easy | |
 | 11 | [旋转数组的最小数组](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [JAVA](./src/lcof/Offer11.java) | 二分 | Hard | &hearts;&hearts; |
+| 12 | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [JAVA](./src/lcof/Offer12.java) | 回溯 | Medium | &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
