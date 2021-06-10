@@ -330,6 +330,7 @@
 | 12 | [矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [JAVA](./src/lcof/Offer12.java) | 回溯 | Medium | &hearts; |
 | 13 | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [JAVA](./src/lcof/Offer13.java) | DFS | Medium | &hearts; |
 | 14 | [剪绳子-I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [JAVA](./src/lcof/Offer14.java) | 动态规划 | Medium | &hearts; |
+| 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [JAVA](./src/lcof/Offer15.java) | 位运算 | Easy | |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
