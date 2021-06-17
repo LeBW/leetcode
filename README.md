@@ -332,6 +332,7 @@
 | 14 | [剪绳子-I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [JAVA](./src/lcof/Offer14.java) | 动态规划 | Medium | &hearts; |
 | 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [JAVA](./src/lcof/Offer15.java) | 位运算 | Easy | |
 | 16 | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [JAVA](./src/lcof/Offer16.java) | 快速幂 | Medium | &hearts; |
+| 17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [JAVA](./src/lcof/Offer17.java) | 全排列 | Easy | &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
