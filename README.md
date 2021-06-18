@@ -333,6 +333,8 @@
 | 15 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [JAVA](./src/lcof/Offer15.java) | 位运算 | Easy | |
 | 16 | [数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [JAVA](./src/lcof/Offer16.java) | 快速幂 | Medium | &hearts; |
 | 17 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [JAVA](./src/lcof/Offer17.java) | 全排列 | Easy | &hearts; |
+| 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [JAVA](./src/lcof/Offer18.java) | 链表 | Easy | &hearts; |
+| 19 | [正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | [JAVA](./src/lcof/Offer19.java) | 动态规划 | Hard | &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
