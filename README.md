@@ -343,6 +343,8 @@
 | 26 | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [JAVA](./src/lcof/Offer26.java) | 树遍历 | Medium | |
 | 27 | [二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [JAVA](./src/lcof/Offer27.java) | 递归 | Easy | |
 | 28 | [对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [JAVA](./src/lcof/Offer28.java) | 递归 | Easy | |
+| 29 | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [JAVA](./src/lcof/Offer29.java) | 模拟 | Easy | |
+| 30 | [包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [JAVA](./src/lcof/Offer30.java) | 辅助栈 | Easy | &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
