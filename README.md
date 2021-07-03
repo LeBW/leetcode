@@ -348,6 +348,7 @@
 | 31 | [栈的入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [JAVA](./src/lcof/Offer31.java) | 模拟 | Medium | &hearts;&hearts; |
 | 32 | [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [JAVA](./src/lcof/Offer32.java) | 层序遍历 | Medium | |
 | 33 | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [JAVA](./src/lcof/Offer33.java) | 递归 | Medium | &hearts;&herats; |
+| 34 | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [JAVA](./src/lcof/Offer34.java) | 回溯<br>DFS | Medium | &hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
