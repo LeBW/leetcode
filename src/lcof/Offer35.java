@@ -36,16 +36,17 @@ public class Offer35 {
         }
         return dummy.next;
     }
-}
 
-class Node {
-    int val;
-    Node next;
-    Node random;
+    static class Node {
+        int val;
+        Node next;
+        Node random;
 
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-        this.random = null;
+        public Node(int val) {
+            this.val = val;
+            this.next = null;
+            this.random = null;
+        }
     }
 }
+
