@@ -353,6 +353,8 @@
 | 36 | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [JAVA](./src/lcof/Offer36.java) | 中序遍历<br>链表 | Medium | &hearts;&hearts; |
 | 37 | [序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [JAVA](./src/lcof/Offer37.java) | 层序遍历<br>序列化 | Hard | &hearts; |
 | 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [JAVA](./src/lcof/Offer38.java) | 回溯<br>排列 | Medium | &hearts;&hearts; |
+| 39 | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer39.java) | 摩尔投票 | Easy | &hearts;&hearts; |
+| 40 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [JAVA](./src/lcof/Offer40.java) | 快排<br>堆 | Easy | &hearts;&hearts; |
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 
 ## 周赛
