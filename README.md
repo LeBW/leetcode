@@ -359,6 +359,7 @@
 | 42 | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [JAVA](./src/lcof/ContinuousSubarrayMaxSum.java) | 动态规划 | Easy | &hearts; |
 | 43 | [1~n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [JAVA](./src/lcof/Offer43.java) | 数学<br>找规律 | Hard | &hearts;&hearts; |
 | 44 | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/) | [JAVA](./src/lcof/Offer44.java) | 数学<br>找规律 | Medium | &hearts;&hearts; |
+| 45 | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [JAVA](./src/lcof/Offer45.java) | 数学<br>特殊排序 | Medium | &hearts;&hearts; |
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
