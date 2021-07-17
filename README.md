@@ -360,6 +360,9 @@
 | 43 | [1~n整数中1出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [JAVA](./src/lcof/Offer43.java) | 数学<br>找规律 | Hard | &hearts;&hearts; |
 | 44 | [数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/solution/) | [JAVA](./src/lcof/Offer44.java) | 数学<br>找规律 | Medium | &hearts;&hearts; |
 | 45 | [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [JAVA](./src/lcof/Offer45.java) | 数学<br>特殊排序 | Medium | &hearts;&hearts; |
+| 46 | [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [JAVA](./src/lcof/Offer46.java) | 动态规划 | Medium | &hearts; |
+| 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [JAVA](./src/lcof/Offer47.java) | 动态规划 | Medium | |
+| 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [JAVA](./src/lcof/Offer48.java) | 滑动窗口 | Medium | &hearts;&hearts; |
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
