@@ -365,6 +365,7 @@
 | 48 | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [JAVA](./src/lcof/Offer48.java) | 滑动窗口 | Medium | &hearts;&hearts; |
 | 49 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [JAVA](./src/lcof/Offer49.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 50 | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [JAVA](./src/lcof/Offer50.java) | 哈希 | Easy | |
+| 51 | [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [JAVA](./src/lcof/Offer51.java) | 逆序对<br>归并排序 | Hard | &hearts;&hearts; |
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
