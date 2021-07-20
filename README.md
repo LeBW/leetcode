@@ -366,6 +366,8 @@
 | 49 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [JAVA](./src/lcof/Offer49.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 50 | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [JAVA](./src/lcof/Offer50.java) | 哈希 | Easy | |
 | 51 | [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [JAVA](./src/lcof/Offer51.java) | 逆序对<br>归并排序 | Hard | &hearts;&hearts; |
+| 52 | [两个链表中的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [JAVA](./src/lcof/Offer52.java) | 双指针 | Easy | &hearts; |
+| 53 | [在排序数组中查找数字](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [JAVA](./src/lcof/Offer53.java) | 二分法 | Easy | &hearts;&hearts; |
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
