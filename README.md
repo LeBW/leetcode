@@ -368,6 +368,10 @@
 | 51 | [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [JAVA](./src/lcof/Offer51.java) | 逆序对<br>归并排序 | Hard | &hearts;&hearts; |
 | 52 | [两个链表中的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [JAVA](./src/lcof/Offer52.java) | 双指针 | Easy | &hearts; |
 | 53 | [在排序数组中查找数字](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [JAVA](./src/lcof/Offer53.java) | 二分法 | Easy | &hearts;&hearts; |
+| 53 | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer53II.java) | 二分 | Easy | &hearts; |
+| 54 | [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [JAVA](./src/lcof/Offer54.java) | 反中序遍历 | Easy | &hearts; |
+| 55 | [二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [JAVA](./src/lcof/Offer55.java) | 递归 | Easy | |
+
 
 ## 周赛
 | # | Title                                               | Solution                  |  Tag  | Difficulty | Significance |
