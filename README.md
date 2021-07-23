@@ -371,6 +371,8 @@
 | 53 | [0~n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer53II.java) | 二分 | Easy | &hearts; |
 | 54 | [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [JAVA](./src/lcof/Offer54.java) | 反中序遍历 | Easy | &hearts; |
 | 55 | [二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [JAVA](./src/lcof/Offer55.java) | 递归 | Easy | |
+| 56 | [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [JAVA](./src/lcof/Offer56.java) | 异或 | Medium | &hearts;&hearts; |
+| 56 | [数组中数字出现的次数II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/submissions/) | [JAVA](./src/lcof/Offer56II.java) | 位操作 | Medium | &hearts;&hearts; |
 
 
 ## 周赛
