@@ -375,6 +375,7 @@
 | 56 | [数组中数字出现的次数II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/submissions/) | [JAVA](./src/lcof/Offer56II.java) | 位操作 | Medium | &hearts;&hearts; |
 | 57 | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [JAVA](./src/lcof/Offer57.java) | 双指针 | Easy | &hearts; |
 | 57 | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [JAVA](./src/lcof/Offer57II.java) | 滑动窗口 | Easy | |
+| 58 | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [JAVA](./src/lcof/Offer58.java) | 字符串 | Easy | |
 
 
 
