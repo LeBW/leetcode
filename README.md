@@ -376,6 +376,8 @@
 | 57 | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [JAVA](./src/lcof/Offer57.java) | 双指针 | Easy | &hearts; |
 | 57 | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [JAVA](./src/lcof/Offer57II.java) | 滑动窗口 | Easy | |
 | 58 | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [JAVA](./src/lcof/Offer58.java) | 字符串 | Easy | |
+| 58 | [左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [JAVA](./src/lcof/Offer58II.java) | 字符串 | Easy | |
+| 59 | [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [JAVA](./src/lcof/Offer59.java) | 堆<br>单调队列 | Hard | &hearts; |
 
 
 
