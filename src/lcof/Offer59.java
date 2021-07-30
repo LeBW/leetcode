@@ -3,9 +3,9 @@ package lcof;
 import java.util.PriorityQueue;
 
 /**
- * Offer 59. 滑动窗口的最大值。
- * 这里我的用的堆（优先级队列）去做的。
- * 其实更好的方法是使用单调双端队列，这里暂时不做过多深入研究。
+ * Offer 59. 滑动窗口的最大值
+ * 用堆（优先级队列）解决，比较简单。时间复杂度 O(nlogk)
+ * 更高级的解法，单调队列。。（以后再说吧）
  * @author LBW
  */
 public class Offer59 {
@@ -18,7 +18,6 @@ public class Offer59 {
         for (int i = 0; i < k; i++) {
             queue.offer(nums[i]);
         }
-
         res[0] = queue.peek();
         for (int i = 1; i < len; i++) {
             // update the queue
