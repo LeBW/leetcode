@@ -380,6 +380,8 @@
 | 59 | [滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [JAVA](./src/lcof/Offer59.java) | 堆<br>单调队列 | Hard | &hearts; |
 | 59 | [队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [JAVA](./src/lcof/Offer59II.java) | 单调队列 | Medium | &hearts;&hearts; |
 | 60 | [n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [JAVA](./src/lcof/Offer60.java) | 动态规划 | Medium | &hearts;&hearts; |
+| 61 | [扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [JAVA](./src/lcof/Offer61.java) | 模拟 | Easy | |
+| 62 | [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer62.java) | 约瑟夫环<br>动态规划 | Easy | &hearts;&hearts; |
 
 
 
