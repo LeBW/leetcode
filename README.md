@@ -384,6 +384,7 @@
 | 62 | [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [JAVA](./src/lcof/Offer62.java) | 约瑟夫环<br>动态规划 | Easy | &hearts;&hearts; |
 | 63 | [股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [JAVA](./src/lcof/Offer63.java) | 最小值 | Medium | |
 | 64 | [求1+2+..+n](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [JAVA](./src/lcof/Offer64.java | 短路效应 | Medium | |
+| 65 | [不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [JAVA](./src/lcof/Offer65.java) | 位运算 | Easy | |
 
 
 
