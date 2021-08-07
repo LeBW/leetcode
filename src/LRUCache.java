@@ -3,6 +3,7 @@ import java.util.Map;
 
 /**
  * 146. LRU Cache
+ * 双向链表的插入删除等
  * @author LBW
  */
 public class LRUCache {
