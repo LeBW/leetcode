@@ -106,6 +106,7 @@
 | 123 | [Best Time To BAS Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [JAVA](./src/BestTimeToBuyAndSellStockIII.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
 | 127 | [Word Ladder](https://leetcode-cn.com/problems/word-ladder/) | [JAVA](./src/WordLadder.java) | BFS | Medium | &hearts;&hearts; |
+| 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [JAVA](./src/LongestConsecutiveSequence.java) | 哈希 | Medium | &hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [JAVA](./src/PalindromePartitioning.java) | 动态规划<br>回溯 | Medium | &hearts;&hearts; |
 | 132 | [Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [JAVA](./src/PalindromePartitioningII.java) | 动态规划 | Hard | &hearts;&hearts; |
