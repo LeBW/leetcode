@@ -203,6 +203,7 @@
 | 435 | [Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [JAVA](./src/NonOverlappingIntervals.java) | 贪心 | Medium | &hearts; |
 | 437 | [Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/) | [JAVA](./src/PathSumIII.java) | 前缀和<br>哈希 | Medium | &hearts;&hearts; |
 | 438 | [Find All Anagrams In a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [JAVA](./src/FindAllAnagramsInAString.java) | 滑动窗口<br>哈希 | Medium | &hearts; |
+| 448 | [Find All Numbers Disappeared](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [JAVA](./src/FindAllNumbersDisappeared.java) | 哈希 | Easy | &hearts; |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [JAVA](./src/AssignCookies.java) | 贪心 | Easy | |
 | 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
