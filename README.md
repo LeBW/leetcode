@@ -32,7 +32,7 @@
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JAVA](./src/StrStr.java) | KMP算法 | Easy | &hearts; |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers) | [JAVA](./src/DivideTwoIntegers.java) | | Median | |
 | 30 | [Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | [JAVA](./src/SubstringWithConcatenation.java) | | Hard | |
-| 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation) | [JAVA](./src/NextPermutation.java) | | Median | |
+| 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 32 | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses) | [JAVA](./src/LongestValidParentheses.java) | | Hard | |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [JAVA](./src/SearchInRotatedSortedArray.java) | | Median | |
 | 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | 二分查找| Median | &hearts; &hearts;|
@@ -208,7 +208,7 @@
 | 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
-| 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
+| 470 | [Implement Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) [JAVA](./src/Rand7Rand10.java) | 拒绝采样 | Medium | &hearts; |
 | 474 | [Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/) | [JAVA](./src/OnesAndZeros.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
