@@ -206,6 +206,7 @@
 | 448 | [Find All Numbers Disappeared](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [JAVA](./src/FindAllNumbersDisappeared.java) | 哈希 | Easy | &hearts; |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [JAVA](./src/AssignCookies.java) | 贪心 | Easy | |
 | 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
+| 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [JAVA](./src/HammingDistance.java) | 位运算 | Easy | |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
 | 470 | [Implement Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) [JAVA](./src/Rand7Rand10.java) | 拒绝采样 | Medium | &hearts; |
@@ -220,6 +221,7 @@
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
 | 523 | [Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [JAVA](./src/ConvertBSTtoGreaterTree.java) | Easy | |
+| 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [JAVA](./src/DiameterOfBinaryTree.java) | 后序遍历 | Medium | &hearts; |
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
 | 554 | [Brick Wall](https://leetcode-cn.com/problems/brick-wall/) | [JAVA](./src/BrickWall.java) | 哈希 | Medium | &hearts; |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
