@@ -224,6 +224,7 @@
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [JAVA](./src/DiameterOfBinaryTree.java) | 后序遍历 | Medium | &hearts; |
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
 | 554 | [Brick Wall](https://leetcode-cn.com/problems/brick-wall/) | [JAVA](./src/BrickWall.java) | 哈希 | Medium | &hearts; |
+| 560 | [Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [JAVA](./src/SubarraySumEqualsK.java) | 哈希<br>前缀和 | Medium | &hearts; |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
