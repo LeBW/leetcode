@@ -229,6 +229,7 @@
 | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [JAVA](./src/ShortestUnsortedContinuousSubarray.java) | 双指针 | Medium | &hearts;&hearts; |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
 | 617 | [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [JAVA](./src/MergeTwoBinaryTrees.java) | DFS | Easy | &hearts; |
+| 621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [JAVA](./src/TaskScheduler.java) | 数学 | Medium | &hearts;&hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
 | 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [JAVA](./src/MaximumAverageSubarrayI.java) | 滑动窗口 | Easy | | 
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
