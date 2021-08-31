@@ -231,7 +231,8 @@
 | 617 | [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [JAVA](./src/MergeTwoBinaryTrees.java) | DFS | Easy | &hearts; |
 | 621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [JAVA](./src/TaskScheduler.java) | 数学 | Medium | &hearts;&hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
-| 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [JAVA](./src/MaximumAverageSubarrayI.java) | 滑动窗口 | Easy | | 
+| 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [JAVA](./src/MaximumAverageSubarrayI.java) | 滑动窗口 | Easy | |
+| 647 | [Palindromic Substring](https://leetcode-cn.com/problems/palindromic-substrings/) | [JAVA](./src/PalindromicSubstrings.java) | 中心扩散 | Medium | &hearts; |
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [JAVA](./src/NonDecreasingArray.java) | 数学 | Easy | &hearts; |
