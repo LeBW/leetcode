@@ -246,6 +246,7 @@
 | 721 | [Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/) | [JAVA](./src/AccountsMerge.java) | 并查集 | Medium | &hearts; |
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [JAVA](./src/FindPivotIndex.java) | 数组 | Easy | |
 | 738 | [Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [JAVA](./src/MonotoneIncreasingDigits.java) | 贪心<br>字符串 | Medium | &hearts;&hearts; |
+| 739 | [Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/) | [JAVA](./src/DailyTemperatures.java) | 单调栈 | Medium | &hearts; |
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [JAVA](./src/MinCostClimbingStairs.java) | 动态规划 | Easy | &hearts; |
 | 767 | [Reorganize String](https://leetcode-cn.com/problems/reorganize-string/) | [JAVA](./src/ReorganizeString.java) | 贪心 | Medium | &hearts; |
