@@ -160,6 +160,7 @@
 | 238 | [Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [JAVA](./src/SlidingWindowMaximum.java) | 单调栈 | Hard | &hearts; |
 | 240 | [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [JAVA](./src/SearchATwoDMatrix.java) | 数学 | Medium | &hearts; |
+| 241 | [Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/ | [JAVA](./src/DifferentWaysToAddParentheses.java) | 分治 | Medium | &hearts; |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JAVA](./src/UglyNumber.java) | 数学 | Easy | |
 | 264 | [Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | [JAVA](./src/UglyNumberII.java) | 最小堆<br>动态规划 | Medium | &hearts;&hearts; |
 | 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [JAVA](./src/PerfectSquares.java) | 动态规划 | Medium | &hearts; |
