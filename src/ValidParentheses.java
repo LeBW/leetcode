@@ -1,6 +1,7 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Stack;
 
 /**
  * <a href=https://leetcode-cn.com/problems/valid-parentheses/description/>
@@ -12,30 +13,19 @@ import java.util.Stack;
  */
 public class ValidParentheses {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
-
+        Deque<Character> stack = new ArrayDeque<>();
         Map<Character, Character> map = new HashMap<>();
         map.put('(', ')');
         map.put('[', ']');
         map.put('{', '}');
-
-        char[] arr = s.toCharArray();
-
-        for (char c: arr) {
-            // if c is in keySet(), push it into the stack.
+        for (char c: s.toCharArray()) {
             if (c == '(' || c == '[' || c == '{') {
                 stack.push(c);
             }
-            // Now we have ')' or ']' or '}'.
-            // If the stack is empty or the top of the stack is not equal to the char, return false.
-            else if (stack.empty() || map.get(stack.peek()) != c )
+            else if (stack.isEmpty() || map.get(stack.pop()) != c) {
                 return false;
-            else {
-                //valid, pop the stack.
-                stack.pop();
             }
         }
-
-        return stack.empty();
+        return stack.isEmpty();
     }
 }
