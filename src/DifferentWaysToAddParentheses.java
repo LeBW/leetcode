@@ -31,9 +31,15 @@ public class DifferentWaysToAddParentheses {
                 for (int l: left) {
                     for (int r: right) {
                         switch (expression.charAt(i)) {
-                            case '+' -> res.add(l + r);
-                            case '-' -> res.add(l - r);
-                            case '*' -> res.add(l * r);
+                            case '+':
+                                res.add(l + r);
+                                break;
+                            case '-':
+                                res.add(l - r);
+                                break;
+                            case '*':
+                                res.add(l * r);
+                                break;
                         }
                     }
                 }
