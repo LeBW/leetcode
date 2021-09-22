@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * 方法二：动态规划。主要思想是：求得 0～n-1 的所有括号组合后，只需要：
