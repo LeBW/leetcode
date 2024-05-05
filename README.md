@@ -32,7 +32,7 @@
 | 28 | [Implement strStr()](https://leetcode-cn.com/problems/implement-strstr) | [JAVA](./src/StrStr.java) | KMP算法 | Easy | &hearts; |
 | 29 | [Divide Two Integers](https://leetcode-cn.com/problems/divide-two-integers) | [JAVA](./src/DivideTwoIntegers.java) | | Median | |
 | 30 | [Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words) | [JAVA](./src/SubstringWithConcatenation.java) | | Hard | |
-| 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation) | [JAVA](./src/NextPermutation.java) | | Median | |
+| 31 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
 | 32 | [Longest Valid Parentheses](https://leetcode-cn.com/problems/longest-valid-parentheses) | [JAVA](./src/LongestValidParentheses.java) | | Hard | |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | [JAVA](./src/SearchInRotatedSortedArray.java) | | Median | |
 | 34 | [Find First and Last Position of Element](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [JAVA](./src/FindFirstAndLastPosition.java) | 二分查找| Median | &hearts; &hearts;|
@@ -106,6 +106,7 @@
 | 123 | [Best Time To BAS Stock III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | [JAVA](./src/BestTimeToBuyAndSellStockIII.java) | 动态规划 | Hard | &hearts;&hearts; |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [JAVA](./src/BinaryTreeMaxPathSum.java) | 二叉树<br>递归 | Hard | &hearts;&hearts;&hearts; |
 | 127 | [Word Ladder](https://leetcode-cn.com/problems/word-ladder/) | [JAVA](./src/WordLadder.java) | BFS | Medium | &hearts;&hearts; |
+| 128 | [Longest Consecutive Sequence](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [JAVA](./src/LongestConsecutiveSequence.java) | 哈希 | Medium | &hearts;&hearts; |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [JAVA](./src/SumRootToLeafNumbers.java) | 二叉树<br>前序遍历 | Medium | |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [JAVA](./src/PalindromePartitioning.java) | 动态规划<br>回溯 | Medium | &hearts;&hearts; |
 | 132 | [Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [JAVA](./src/PalindromePartitioningII.java) | 动态规划 | Hard | &hearts;&hearts; |
@@ -159,6 +160,7 @@
 | 238 | [Product Of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/) | [JAVA](./src/ProductOfArrayExceptSelf.java) | 数组 | Medium | &hearts; |
 | 239 | [Sliding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [JAVA](./src/SlidingWindowMaximum.java) | 单调栈 | Hard | &hearts; |
 | 240 | [Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [JAVA](./src/SearchATwoDMatrix.java) | 数学 | Medium | &hearts; |
+| 241 | [Different Ways to Add Parentheses](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/ | [JAVA](./src/DifferentWaysToAddParentheses.java) | 分治 | Medium | &hearts; |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [JAVA](./src/UglyNumber.java) | 数学 | Easy | |
 | 264 | [Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | [JAVA](./src/UglyNumberII.java) | 最小堆<br>动态规划 | Medium | &hearts;&hearts; |
 | 279 | [Perfect Squares](https://leetcode-cn.com/problems/perfect-squares/) | [JAVA](./src/PerfectSquares.java) | 动态规划 | Medium | &hearts; |
@@ -200,11 +202,15 @@
 | 416 | [Partition Equal Subset Sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [JAVA](./src/PartitionEqualSubsetSum.java) | 动态规划<br> | Medium | &hearts;&hearts; |
 | 424 | [Longest Repeating Character Rep](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | [JAVA](./src/LongestRepeatingCharacterReplacement.java) | 滑动窗口 | Medium | &hearts;&hearts; |
 | 435 | [Non-overlapping Intervals](https://leetcode-cn.com/problems/non-overlapping-intervals/) | [JAVA](./src/NonOverlappingIntervals.java) | 贪心 | Medium | &hearts; |
+| 437 | [Path Sum III](https://leetcode-cn.com/problems/path-sum-iii/) | [JAVA](./src/PathSumIII.java) | 前缀和<br>哈希 | Medium | &hearts;&hearts; |
+| 438 | [Find All Anagrams In a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [JAVA](./src/FindAllAnagramsInAString.java) | 滑动窗口<br>哈希 | Medium | &hearts; |
+| 448 | [Find All Numbers Disappeared](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [JAVA](./src/FindAllNumbersDisappeared.java) | 哈希 | Easy | &hearts; |
 | 455 | [Assign Cookies](https://leetcode-cn.com/problems/assign-cookies/) | [JAVA](./src/AssignCookies.java) | 贪心 | Easy | |
 | 456 | [132 Pattern](https://leetcode-cn.com/problems/132-pattern/) | [JAVA](./src/One32Pattern.java) | 单调栈 | Medium | &hearts;&hearts; |
+| 461 | [Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/) | [JAVA](./src/HammingDistance.java) | 位运算 | Easy | |
 | 463 | [Island Perimeter](https://leetcode-cn.com/problems/island-perimeter/) | [JAVA](./src/IslandPerimeter.java) | DFS | Easy | &hearts; |
 | 464 | [Can I Win](https://leetcode-cn.com/problems/can-i-win/) | [JAVA](./src/CanIWin.java) | 博弈DP<br>记忆回溯 | Medium | &hearts;&hearts; |
-| 470 | [Next Permutation](https://leetcode-cn.com/problems/next-permutation/) | [JAVA](./src/NextPermutation.java) | 数学分析 | Median | &hearts; |
+| 470 | [Implement Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/) [JAVA](./src/Rand7Rand10.java) | 拒绝采样 | Medium | &hearts; |
 | 474 | [Ones and Zeroes](https://leetcode-cn.com/problems/ones-and-zeroes/) | [JAVA](./src/OnesAndZeros.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 475 | [Heaters](https://leetcode-cn.com/problems/heaters) | [JAVA](./src/Heaters.java) | 二分查找<br>最大最小值 | Easy | &hearts; |
 | 485 | [Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/comments/) | [JAVA](./src/MaxConsecutiveOnes.java) | 数组 | Easy | |;
@@ -216,12 +222,18 @@
 | 520 | [Detect Capital](https://leetcode-cn.com/problems/detect-capital/) | [JAVA](./src/DetectCapital.java) | | Easy | |
 | 523 | [Continuous Subarray Sum](https://leetcode-cn.com/problems/continuous-subarray-sum/) | [JAVA](./src/ContinuousSubarraySum.java) | 哈希 | Medium | &hearts;&hearts; |
 | 538 | [Convert BST to Greater Tree](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [JAVA](./src/ConvertBSTtoGreaterTree.java) | Easy | |
+| 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [JAVA](./src/DiameterOfBinaryTree.java) | 后序遍历 | Medium | &hearts; |
 | 547 | [Number of Provinces](https://leetcode-cn.com/problems/number-of-provinces/) | [JAVA](./src/NumberOfProvince.java) | 连通分量 | Medium | |
 | 554 | [Brick Wall](https://leetcode-cn.com/problems/brick-wall/) | [JAVA](./src/BrickWall.java) | 哈希 | Medium | &hearts; |
+| 560 | [Subarray Sum Equals K](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [JAVA](./src/SubarraySumEqualsK.java) | 哈希<br>前缀和 | Medium | &hearts; |
 | 575 | [Distribute Candies](https://leetcode-cn.com/problems/distribute-candies/) | [JAVA](./src/DistributeCandies.java) | 哈希 | Easy | |
+| 581 | [Shortest Unsorted Continuous Subarray](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [JAVA](./src/ShortestUnsortedContinuousSubarray.java) | 双指针 | Medium | &hearts;&hearts; |
 | 605 | [Can Place Flowers](https://leetcode-cn.com/problems/can-place-flowers/) | [JAVA](./src/CanPlaceFlowers.java) | 贪心 | Easy | &hearts; |
+| 617 | [Merge Two Binary Trees](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [JAVA](./src/MergeTwoBinaryTrees.java) | DFS | Easy | &hearts; |
+| 621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [JAVA](./src/TaskScheduler.java) | 数学 | Medium | &hearts;&hearts; |
 | 628 | [Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | [JAVA](./src/MaximumProductOfThreeNumbers.java) | 数组 | Easy | &hearts;&hearts; |
-| 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [JAVA](./src/MaximumAverageSubarrayI.java) | 滑动窗口 | Easy | | 
+| 643 | [Maximum Average Subarray I](https://leetcode-cn.com/problems/maximum-average-subarray-i/) | [JAVA](./src/MaximumAverageSubarrayI.java) | 滑动窗口 | Easy | |
+| 647 | [Palindromic Substring](https://leetcode-cn.com/problems/palindromic-substrings/) | [JAVA](./src/PalindromicSubstrings.java) | 中心扩散 | Medium | &hearts; |
 | 649 | [Dota2 Senate](https://leetcode-cn.com/problems/dota2-senate/) | [JAVA](./src/Dota2Senate.java) | 模拟 | Medium | |
 | 650 | [2 Keys Keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/) | [JAVA](./src/TwoKeysKeyboard.java) | 数学 | Medium | &hearts; |
 | 665 | [Non-decreasing Array](https://leetcode-cn.com/problems/non-decreasing-array/) | [JAVA](./src/NonDecreasingArray.java) | 数学 | Easy | &hearts; |
@@ -235,6 +247,7 @@
 | 721 | [Accounts Merge](https://leetcode-cn.com/problems/accounts-merge/) | [JAVA](./src/AccountsMerge.java) | 并查集 | Medium | &hearts; |
 | 724 | [Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index/) | [JAVA](./src/FindPivotIndex.java) | 数组 | Easy | |
 | 738 | [Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [JAVA](./src/MonotoneIncreasingDigits.java) | 贪心<br>字符串 | Medium | &hearts;&hearts; |
+| 739 | [Daily Temperatures](https://leetcode-cn.com/problems/daily-temperatures/) | [JAVA](./src/DailyTemperatures.java) | 单调栈 | Medium | &hearts; |
 | 740 | [Delete and Earn](https://leetcode-cn.com/problems/delete-and-earn/) | [JAVA](./src/DeleteAndEarn.java) | 动态规划 | Medium | &hearts;&hearts; |
 | 746 | [Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [JAVA](./src/MinCostClimbingStairs.java) | 动态规划 | Easy | &hearts; |
 | 767 | [Reorganize String](https://leetcode-cn.com/problems/reorganize-string/) | [JAVA](./src/ReorganizeString.java) | 贪心 | Medium | &hearts; |
