@@ -24,6 +24,23 @@ public class MoveZeroes {
                 idx += 1;
             }
         }
+    }
 
+    // 更简便的方法
+    public void moveZeroes2(int[] nums) {
+        int len = nums.length;
+        // cur 从 0 开始，记录需要处理的索引
+        int cur = 0;
+        // 遍历数组 nums，遇到非 0 时，将其设置到 nums[cur] 中，并将 cur 加 1
+        for (int i = 0; i < len; i++) {
+            if (nums[i] != 0) {
+                nums[cur] = nums[i];
+                cur += 1;
+            }
+        }
+        // 遍历完成后，nums[cur] 前面的全部都是非零元素，后面的应该全部设置为 0
+        while (cur < len) {
+            nums[cur++] = 0;
+        }
     }
 }
