@@ -11,18 +11,17 @@
  */
 public class ContainerWithMostWater {
     public int maxArea(int[] height) {
-        int left = 0, right = height.length - 1;
-        int res = Math.min(height[left], height[right]) * (right - left);
-        while (left < right) {
-            if (height[left] <= height[right]) {
-                left += 1;
+        int start = 0, end = height.length - 1;
+        int max = 0;
+        while (start < end) {
+            max = Math.max(max, (end - start) * Math.min(height[start], height[end]));
+            if (height[start] < height[end]) {
+                start += 1;
+            } else {
+                end -= 1;
             }
-            else {
-                right -= 1;
-            }
-            res = Math.max(res, Math.min(height[left], height[right]) * (right - left));
         }
-        return res;
+        return max;
     }
     public static void main(String[] args) {
         ContainerWithMostWater containerWithMostWater = new ContainerWithMostWater();
