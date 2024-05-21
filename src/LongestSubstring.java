@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 
 /**
  * Longest substring without repeating characters.
@@ -46,10 +47,36 @@ public class LongestSubstring {
         }
         return ans;
     }
+
+        public int lengthOfLongestSubstringThree(String s) {
+        if (s == null || s.length() == 0) {
+            return 0;
+        }
+        int result = 1;
+        Map<Character, Integer> map = new HashMap<>();
+        char[] cs = s.toCharArray();
+        int len = s.length();
+        int start = 0, end = 1;
+        while (end < len) {
+            while (end < len && !map.containsKey(cs[end])) {
+                map.put(cs[end], end);
+                end += 1;
+            }
+            result = Math.max(result, end - start);
+            if (end < len) {
+                int lastIndex = map.get(cs[end]);
+                while (start <= lastIndex) {
+                    map.remove(cs[start]);
+                    start += 1;
+                }
+            }
+        }
+        return result;
+    }
+
     public static void main(String[] args) {
         LongestSubstring longestSubstring = new LongestSubstring();
-        int result = longestSubstring.lengthOfLongestSubString("au");
-        System.out.println(longestSubstring.lengthOfLongestSubStringTwo("sf"));
+        int result = longestSubstring.lengthOfLongestSubstringThree("abcabcbb");
         System.out.println(result);
     }
 }
